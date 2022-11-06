@@ -1,14 +1,9 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: rotate 5s linear infinite
     position: absolute
-    top: 40%
-    right: 50%
-  &-2
-    animation: float1 2.8s ease-in-out infinite alternate
-    position: absolute
-    top: 51%
-    right: 30%
+    top: 5%
+    right: 5% 
 
 
 @keyframes float1
@@ -17,3 +12,177 @@
 
   100%
     transform: translateY(0px)
+
+@keyframes rotate 
+  0%
+    transform: rotate(0)
+
+  100%
+    transform: rotate(360deg)
+
+.banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6
+  color: $color-sistema-texto
+
+.text-left
+  text-align: left
+
+@media only screen and (max-width: 992px)
+  .m-left
+    left: 0 !important  
+
+.m-left
+  left: 50% !important
+  border-bottom-right-radius: 20px
+  border-top-right-radius: 20px
+
+.bloque-texto-g
+  justify-content: flex-start !important
+  border-radius: 20px
+
+.bloque-g-text
+  justify-content: flex-end !important  
+
+.fondo-1
+  background-image: url('../assets/curso/temas/tema_1/img_3.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+
+.fondo-2
+  background-image: url('../assets/curso/temas/tema_1/img_7.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  text-align: left
+  margin-inline: -3.2rem 
+
+.fondo-3
+  background-image: url('../assets/curso/temas/tema_1/img_13.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+
+.fondo-4
+  background-image: url('../assets/curso/temas/tema_1/img_40.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-inline: -3.2rem 
+
+.fondo-5
+  background-image: url('../assets/curso/temas/tema_1/img_44.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right
+  margin-inline: -3.2rem 
+
+.fondo-6
+  background-image: url('../assets/curso/temas/tema_1/img_50.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left
+  margin-inline: -3.2rem 
+
+.fondo-7
+  background-image: url('../assets/curso/temas/tema_1/img_54.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+
+.fondo-8
+  background-image: url('../assets/curso/temas/tema_3/img_8.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left
+  margin-inline: -3.2rem 
+
+.fondo-9
+  background-image: url('../assets/curso/temas/tema_4/img_11.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right
+
+.img-a 
+  display: block 
+  margin: auto   
+  width: auto
+  height: auto
+
+.cajon.color-secundario 
+  background-color: #DBEDEB;
+
+
+.pasos-b.color-primario .pasos-b__header__item--active .pasos-b__header__item__dot span 
+    color: #fff
+
+.tabs-c.color-primario .tabs-c__tab--active
+  font-weight: bold;
+
+.horizontal-scroll
+  align-items: stretch!important
+
+.bg_1
+  background-color: #DCEEEC
+
+.bg_2
+  .acordion
+    .tarjeta--azul
+      background-color: #FEE1B4
+    .acordion__activo
+      background-color: #DCEEEC!important
+
+.bg_3
+  background-color: #E9EDF3
+
+.bg_4
+  background-color: #F6FAEF
+  .linea-tiempo-c__header__btn, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right, .pasos-b__header__btn--left, .pasos-b__header__btn--right
+    color: #E26C1E
+
+.bg_5
+  background-color: #FFF6E9
+.img-infografica.color-primario .img-infografica__item__numero, .img-infografica-b.color-primario .img-infografica__item__numero
+  color: #fff
+
+.tarjeta_1
+  background-color: #C5E3E0
+  height: 30vw
+  align-items: center
+  text-align: center
+  justify-content: center
+  display: flex
+
+.tarjeta_2
+  background-color: #F8DBC7
+  height: 30vw
+  align-items: center
+  text-align: center
+  justify-content: center
+  display: flex
+
+.tarjeta_3
+  background-color: #E0EBC8
+  height: 30vw
+  align-items: center
+  text-align: center
+  justify-content: center
+  display: flex
+
+.cajon.color-primario 
+  background-color: #FBE9DD
+
+.aliln_1
+  align-items: center
+  justify-content: center
+
+.cajon.color-acento-contenido 
+  background-color: #ECF3DD
+
+.thead_1
+  background-color: #E26C1E
+  color: #fff
+  font-weight: bold
+
+.td_1
+  background-color: #F8D6CC
+
+.td_2
+  background-color: #FCECE7
+
+.titulo-sexto.color-acento-contenido
+  border-left-color: #FF6B00

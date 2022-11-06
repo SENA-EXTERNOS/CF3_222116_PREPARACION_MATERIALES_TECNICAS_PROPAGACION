@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **Preparación de materiales y técnicas de propagación**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://sena-externos.github.io/CF3_222116_PREPARACION_MATERIALES_TECNICAS_PROPAGACION/#/](https://sena-externos.github.io/CF3_222116_PREPARACION_MATERIALES_TECNICAS_PROPAGACION/#/)
 
 #
 
