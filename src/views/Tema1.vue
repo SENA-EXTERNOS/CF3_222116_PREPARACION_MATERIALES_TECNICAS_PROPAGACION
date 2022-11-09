@@ -206,8 +206,8 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema_1/img_25.png')})`}"
           )
           .bloque-texto-g__texto.p-4.text-small
-            p.mb-0 Teniendo en cuenta los requerimientos técnicos para llevar a cabo el proceso de micropropagación del tejido vegetal in vitro, así como las condiciones controladas del entorno inmediato que se han descrito anteriormente, el laboratorio en el cual se han de llevar a cabo las diferentes actividades relacionadas, debe contar con una dotación instrumental acorde con los distintos procedimientos de interés, puesto que su presencia y acción es complementaria.
-            p.mb-0 Este tipo de dotación instrumental puede clasificarse en tres categorías específicas, a saber: equipos, utensilios y reactivos.
+            p.mb-0 Teniendo en cuenta los requerimientos técnicos para llevar a cabo el proceso de micropropagación del tejido vegetal in vitro, así como las condiciones controladas del entorno inmediato que se han descrito anteriormente, el laboratorio en el cual se han de llevar a cabo las diferentes actividades relacionadas, debe contar con una dotación instrumental acorde con los distintos procedimientos de interés, puesto que su presencia y acción es complementaria.#[br]
+            p.mb-0 #[b Este tipo de dotación instrumental puede clasificarse en tres categorías específicas, a saber: equipos, utensilios y reactivos.]
 
     p.mb-5 A continuación, se presentan algunos de los equipos destacados para la determinación de la dotación instrumental, incluyendo su función.
 
