@@ -3,7 +3,7 @@ export default {
     componenteFormativo: 'Preparación de materiales y técnicas de propagación',
     descripcionCurso:
       'El componente formativo tres (3) aborda el proceso de propagación de material vegetal, estableciendo condiciones precisas de asepsia en la implementación. Entre los aspectos determinantes, resaltan la clasificación específica del material vegetal, define métodos de propagación, uso de equipos y herramientas, interpretación de condiciones de nutrición vegetal, preparación medios de cultivo y definición de protocolos de seguimiento al cultivo',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
