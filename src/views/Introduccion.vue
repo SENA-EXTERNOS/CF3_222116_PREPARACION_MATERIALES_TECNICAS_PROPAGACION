@@ -11,7 +11,7 @@
 
     .row.align-items-center.mb-5
       .col-lg-8.mb-4.mb-md-0(data-aos="fade-rigth")
-        p Bienvenidos al tercer componente formativo del programa técnico en Propagación masiva de material vegetal del SENA, denominado Preparación de materiales y técnicas de propagación, en el cual se identificarán los mecanismos más apropiados y el tipo de alistamiento de laboratorio requerido. Para iniciar el desarrollo del componente se presenta lo correspondiente a propagación de material vegetal. En segundo lugar, se presenta el inicio del ciclo de cultivo in vitro y luego de nutrición vegetal. Finalmente se presentan las unidades de expresión de las sustancias en preparación de cultivo. Inicie este recorrido observando el video de introducción del componente formativo.
+        p Bienvenidos al tercer componente formativo del programa técnico en Propagación masiva de material vegetal del SENA, denominado Preparación de materiales y técnicas de propagación, en el cual se identificarán los mecanismos más apropiados y el tipo de alistamiento de laboratorio requerido. Para iniciar el desarrollo del componente se presenta lo correspondiente a propagación de material vegetal. En segundo lugar, se presenta el inicio del ciclo de cultivo #[i in vitro] y luego de nutrición vegetal. Finalmente se presentan las unidades de expresión de las sustancias en preparación de cultivo. Inicie este recorrido observando el video de introducción del componente formativo.
       .col-lg-3(data-aos="fade-left")
         img.img-a(src='@/assets/curso/temas/tema_1/img_1.png', alt='Texto que describa la imagen')
     figure

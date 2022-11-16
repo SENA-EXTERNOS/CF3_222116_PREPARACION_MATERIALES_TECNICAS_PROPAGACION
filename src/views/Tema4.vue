@@ -40,7 +40,7 @@
         .tarjeta.bg_5
           .p-4
             h4.text-center Minerales
-            p.text-center.mb-0 Son los elementos inorgánicos requeridos para el desarrollo de la planta (macro y microelementos), entre los que se encuentran Nitrógeno, Fósforo, Potasio, Magnesio, Azufre, Calcio, Cloro, Sodio, Manganeso, Zinc, Boro, Cobre, Molibdeno, Cobalto, Hierro (Flórez - Hernández et al, 2017).
+            p.text-center.mb-0 Son los elementos inorgánicos requeridos para el desarrollo de la planta (macro y microelementos), entre los que se encuentran Nitrógeno, Fósforo, Potasio, Magnesio, Azufre, Calcio, Cloro, Sodio, Manganeso, Zinc, Boro, Cobre, Molibdeno, Cobalto, Hierro (Flórez - Hernández #[i et al], 2017).
 
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema_4/img_5.svg' alt='AvatarTop')
@@ -246,14 +246,14 @@
             .col-md-4.mb-4.mb-md-0
               img.img-a(src='@/assets/curso/temas/tema_4/img_8.png', alt='Texto que describa la imagen')
             .col-md-6
-              h4 Pesaje de cada componente al momento de preparación de la fórmula.
-              p Es un método complejo, debido a las dificultades de pesaje de algunos componentes, como es el caso de los micronutrientes
-        .py-3.py-md-4(titulo="Preparación de soluciones madre (stock)").fondo-9
+              h4 Pesaje de cada componente al momento de preparación de la fórmula
+              p Es un método complejo, debido a las dificultades de pesaje de algunos componentes, como es el caso de los micronutrientes.
+        .py-3.py-md-4(titulo="Preparación de soluciones madre <em>(stock)</em>").fondo-9
           .row.justify-content-center.align-items-center
             .col-md-4.mb-4.mb-md-0
               img.img-a(src='@/assets/curso/temas/tema_4/img_9.png', alt='Texto que describa la imagen')
             .col-md-6
-              h4 Preparación de soluciones madre (stock).
+              h4 Preparación de soluciones madre <em>(stock)</em>
               p Este método consiste en realizar una preparación en altas concentraciones, para luego tomar muestras proporcionales a las necesidades y diluirlas en agua.
         .py-3.py-md-4(titulo="Formulaciones premezcladas obtenidas en el mercado").fondo-9
           .row.justify-content-center.align-items-center
@@ -266,7 +266,7 @@
     .row.justify-content-center
       .col-lg-10
         .cajon.color-secundario.p-4
-          La comprensión de los diferentes elementos que competen a la propagación del material vegetal, no se limita a la adopción mecánica y reiterada de un tipo de procedimientos a desarrollar en el laboratorio, debe adentrarse el ejercicio sobre la interpretación apropiada de las formas, en las cuales se propende por el establecimiento del cultivo in vitro y la promoción del crecimiento como condiciones determinantes para sentar las bases del éxito productivo del proceso. Hemos llegado al final de este componente formativo.  Recuerde explorar los demás recursos que se encuentran disponibles, para ello diríjase al menú principal en el cual encontrará la síntesis, la actividad didáctica, material complementario, entre otros.
+          p.mb-0 La comprensión de los diferentes elementos que competen a la propagación del material vegetal, no se limita a la adopción mecánica y reiterada de un tipo de procedimientos a desarrollar en el laboratorio, debe adentrarse el ejercicio sobre la interpretación apropiada de las formas, en las cuales se propende por el establecimiento del cultivo #[i in vitro] y la promoción del crecimiento como condiciones determinantes para sentar las bases del éxito productivo del proceso. Hemos llegado al final de este componente formativo.  Recuerde explorar los demás recursos que se encuentran disponibles, para ello diríjase al menú principal en el cual encontrará la síntesis, la actividad didáctica, material complementario, entre otros.
 
       
     

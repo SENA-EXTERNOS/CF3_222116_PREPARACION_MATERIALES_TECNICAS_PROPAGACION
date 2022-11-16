@@ -5,14 +5,14 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Inicio del ciclo del cultivo in vitro
+      h1 Inicio del ciclo del cultivo #[i in vitro]
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-4(data-aos="fade-left")
       .bloque-texto-g__img.m-left(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema_2/img_1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0.text-small Luego del reconocimiento del proceso de la micropropagación de material vegetal, se continúa presentando un contenido introductorio a la temática general de propagación in vitro, exponiendo el panorama asociado a las diferentes fases generales de esta técnica de reproducción asexual del material vegetal. En este recorrido, se proporcionan elementos relacionados con las condiciones y procedimientos básicos de introducción de los tejidos a los medios de cultivo, la correspondiente multiplicación de brotes necesaria para el logro de nuevos individuos y, finalmente, un recorrido por los aspectos requeridos para el sostenimiento de los explantes y su consolidación. 
+        p.mb-0.text-small Luego del reconocimiento del proceso de la micropropagación de material vegetal, se continúa presentando un contenido introductorio a la temática general de propagación #[i in vitro], exponiendo el panorama asociado a las diferentes fases generales de esta técnica de reproducción asexual del material vegetal. En este recorrido, se proporcionan elementos relacionados con las condiciones y procedimientos básicos de introducción de los tejidos a los medios de cultivo, la correspondiente multiplicación de brotes necesaria para el logro de nuevos individuos y, finalmente, un recorrido por los aspectos requeridos para el sostenimiento de los explantes y su consolidación. 
 
     separador
     #t_2_1.titulo-segundo.color-secundario.mt-5
@@ -22,15 +22,15 @@
       .col-lg-2.mb-4.mb-md-0(data-aos="fade-right")
         img.img-a(src='@/assets/curso/temas/tema_2/img_2.png', alt='Texto que describa la imagen')
       .col-lg-8(data-aos="fade-left")
-        p La propagación in vitro de material vegetal, integra un conjunto de procesos que deben ser meticulosamente desarrollados para lograr el objetivo de producción; el paso inicial de esto es la introducción de los tejidos al medio seleccionado.
+        p La propagación #[i in vitro] de material vegetal, integra un conjunto de procesos que deben ser meticulosamente desarrollados para lograr el objetivo de producción; el paso inicial de esto es la introducción de los tejidos al medio seleccionado.
 
-    p.mb-5 Para establecer un proceso de propagación vegetal in vitro, es necesario comprender la necesidad de contar con un medio de cultivo apropiado para el desarrollo de las fases implicadas.
+    p.mb-5 Para establecer un proceso de propagación vegetal #[i in vitro], es necesario comprender la necesidad de contar con un medio de cultivo apropiado para el desarrollo de las fases implicadas.
 
     .tarjeta.fondo-3.p-4.mb-5(data-aos="fade-right")
       SlyderA(tipo="b")
         .row.justify-content-center.align-items-center
           .col-md-4.mb-4.mb-md-0.text-small
-            p Para la técnica de cultivo in vitro, el medio de cultivo funciona como sustrato, pero también como fuente energética, fundamental para el desarrollo de los tejidos.      
+            p Para la técnica de cultivo #[i in vitro], el medio de cultivo funciona como sustrato, pero también como fuente energética, fundamental para el desarrollo de los tejidos.      
           .col-md-7
             figure
               img.img-a(src='@/assets/curso/temas/tema_2/img_3.png', alt='Texto que describa la imagen')
@@ -89,7 +89,7 @@
                 h2 Preparación del medio de cultivo
                 p También se conoce como la elaboración propiamente dicha de la mezcla, conservando pH apropiado, consistencia y asepsia.
 
-    p.mb-5 Luego de la definición de todo lo señalado hasta el presente punto, se procede a introducir el material vegetal in vitro; para el desarrollo de esto se debe:
+    p.mb-5 Luego de la definición de todo lo señalado hasta el presente punto, se procede a introducir el material vegetal #[i in vitro]; para el desarrollo de esto se debe:
 
     .tarjeta.bg_4.p-4
       PasosB.color-primario

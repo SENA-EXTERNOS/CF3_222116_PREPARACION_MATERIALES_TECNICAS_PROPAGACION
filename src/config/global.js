@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Preparación de materiales y técnicas de propagación',
     descripcionCurso:
-      'El componente formativo tres (3) aborda el proceso de propagación de material vegetal, estableciendo condiciones precisas de asepsia en la implementación. Entre los aspectos determinantes, resaltan la clasificación específica del material vegetal, define métodos de propagación, uso de equipos y herramientas, interpretación de condiciones de nutrición vegetal, preparación medios de cultivo y definición de protocolos de seguimiento al cultivo',
+      'El componente formativo tres (3) aborda el proceso de propagación de material vegetal, estableciendo condiciones precisas de asepsia en la implementación. Entre los aspectos determinantes, resaltan la clasificación específica del material vegetal, define métodos de propagación, uso de equipos y herramientas, interpretación de condiciones de nutrición vegetal, preparación medios de cultivo y definición de protocolos de seguimiento al cultivo.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -35,7 +35,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Enfoques sistémicos',
+            titulo: 'Determinación de material',
             hash: 't_1_1',
           },
           {
@@ -75,7 +75,7 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Inicio del ciclo del cultivo in vitro',
+        titulo: 'Inicio del ciclo del cultivo <em>in vitro</em>',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -202,7 +202,7 @@ export default {
     {
       tema: 'Técnicas de micropropagación',
       referencia:
-        'Perea, M (2009). Cultivo de tejidos vegetales in vitro. Consultado de',
+        'Perea, M (2009). Cultivo de tejidos vegetales <em>in vitro</em>. Consultado de',
       tipo: 'Libro',
       descarga: '/downloads/Cultivo_de_Tejidos_Vegetales_In_Vitro.pdf',
     },
@@ -216,48 +216,48 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Autoclave:',
+      termino: 'Autoclave',
       significado:
         'recipiente de presión metálico de paredes gruesas con un cierre hermético, que permite trabajar a alta presión para realizar una reacción industrial, una cocción o una esterilización con vapor de agua a fin de esterilizar materiales e instrumentos quirúrgicos.',
     },
     {
-      termino: 'Célula somática:',
+      termino: 'Célula somática',
       significado:
         'células que conforman el crecimiento de los tejidos y órganos de un ser vivo pluricelular.',
     },
     {
-      termino: 'Competencia celular:',
+      termino: 'Competencia celular',
       significado:
         'condición en la cual las células han retenido o adquirido la capacidad de diferenciación y organogénesis celular para formar nuevas estructuras.',
     },
     {
-      termino: 'Determinación celular:',
+      termino: 'Determinación celular',
       significado:
         'grado de compromiso de la célula en su programación biológica para seguir un proceso morfológico controlado, sin verse afectado por estímulos externos.',
     },
     {
-      termino: 'Embriogénesis somática:',
+      termino: 'Embriogénesis somática',
       significado:
         'desarrollo de embriones a partir de células que no son producto de la fusión de gametos durante la fecundación.',
     },
-    { termino: 'Endofítico:', significado: 'dentro de la planta.' },
+    { termino: 'Endofítico', significado: 'dentro de la planta.' },
     {
-      termino: 'Mioinositol:',
+      termino: 'Mioinositol',
       significado:
         'sustancia que ayuda a las células a desarrollar las membranas y a generar respuesta frente a los mensajes que llegan del ambiente.',
     },
     {
-      termino: 'Propágulo:',
+      termino: 'Propágulo',
       significado:
         'biología es un tipo de germen, parte o estructura de un organismo, producido sexual o asexualmente, capaz de desarrollarse de manera separada para dar lugar a un nuevo organismo idéntico al que lo formó.',
     },
     {
-      termino: 'Regulador osmótico:',
+      termino: 'Regulador osmótico',
       significado:
         'sustancias que disminuyen el potencial hídrico dentro de la célula para evitar la deshidratación.',
     },
     {
-      termino: 'Senescencia:',
+      termino: 'Senescencia',
       significado:
         'proceso iniciado como respuesta al estrés y daño ocurrido en una célula, y constituye una ruta alternativa de respuesta a la muerte celular programada',
     },
@@ -269,7 +269,7 @@ export default {
     },
     {
       referencia:
-        'Flores-Hernández, LA. Robledo-Paz, A. Jimarez-Montiel, MJ (2017). Medio de cultivo y sustitutos del agar en el crecimiento in vitro de orquídeas, en: Revista Mexicana de Ciencias Agrícolas, (8) (6) pp. 1315-1328. Disponible en:',
+        'Flores-Hernández, LA. Robledo-Paz, A. Jimarez-Montiel, MJ (2017). Medio de cultivo y sustitutos del agar en el crecimiento <em>in vitro</em> de orquídeas, en: Revista Mexicana de Ciencias Agrícolas, (8) (6) pp. 1315-1328. Disponible en:',
       link:
         'https://www.scielo.org.mx/pdf/remexca/v8n6/2007-0934-remexca-8-06-1315-en.pdf',
     },

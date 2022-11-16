@@ -12,11 +12,11 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema_1/img_2.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0.text-small Para comprender el proceso de propagación de material vegetal, debe partirse de las diversas condiciones que ilustran su practicidad para el establecimiento de iniciativas productivas que garanticen la reproducción de material vegetal comparativamente ventajoso en términos de rendimiento, derivado de la posibilidad que ofrece la multiplicación vegetativa de clonación de los recursos genéticos seleccionados; en tal sentido, se establece la necesidad de profundizar en los aspectos centrales de la consolidación del ensayo a realizar; entre estos se encuentran la determinación de material vegetal, el establecimiento de sustratos de propagación apropiados, definición de los métodos de propagación pertinentes, identificación de equipos y herramientas necesarias, mecanismos de seguimiento del proceso y gestión apropiada de la higiene y asepsia en el laboratorio. A continuación, se aborda cada uno de estos apartados en detalle.
+        p.mb-0.text-small Para comprender el proceso de propagación de material vegetal, debe partirse de las diversas condiciones que ilustran su practicidad para el establecimiento de iniciativas productivas que garanticen la reproducción de material vegetal comparativamente ventajoso en términos de rendimiento, derivado de la posibilidad que ofrece la multiplicación vegetativa de clonación de los recursos genéticos seleccionados; en tal sentido, se establece la necesidad de profundizar en los aspectos centrales de la consolidación del ensayo a realizar; #[b entre estos se encuentran la determinación de material vegetal, el establecimiento de sustratos de propagación apropiados, definición de los métodos de propagación pertinentes, identificación de equipos y herramientas necesarias, mecanismos de seguimiento del proceso y gestión apropiada de la higiene y asepsia en el laboratorio]. A continuación, se aborda cada uno de estos apartados en detalle.
 
     separador
     #t_1_1.titulo-segundo.color-secundario.mt-5
-      h2 1.1 Enfoques sistémicos
+      h2 1.1 Determinación de material
 
     p.mb-5 Para dar inicio a lo correspondiente con la propagación de material vegetal, se presentan elementos destacados en la determinación de éste.
 
@@ -32,7 +32,7 @@
 
         .row.justify-content-center.align-items-center
           .col-md-3.mb-4.mb-md-0.text-small
-            p Además del tejido descrito anteriormente, es importante considerar los siguientes aspectos en el procedimiento de propagación in vitro: el medio que es inoculado inicialmente, deberá ser ubicado en un agitador orbital; la velocidad debe mantenerse entre 30 y 150 revoluciones por minuto, garantizando el mantenimiento de los tejidos celulares sin decantarse y posibilitando altas tasas de multiplicación celular. 
+            p Además del tejido descrito anteriormente, es importante considerar los siguientes aspectos en el procedimiento de propagación #[i in vitro]: el medio que es inoculado inicialmente, deberá ser ubicado en un agitador orbital; la velocidad debe mantenerse entre 30 y 150 revoluciones por minuto, garantizando el mantenimiento de los tejidos celulares sin decantarse y posibilitando altas tasas de multiplicación celular. 
         
           .col-md-7
             figure
@@ -50,9 +50,9 @@
       .row.justify-content-center.mb-5
         .col-lg-10
           .cajon.color-secundario.p-4.mb-4
-            p.mb-0 Dando continuidad a lo relacionado con la determinación del material para la realización de la propagación in vitro, se procede a reconocer el proceso de consolidación del cultivo.
+            p.mb-0 Dando continuidad a lo relacionado con la determinación del material para la realización de la propagación #[i in vitro], se procede a reconocer el proceso de consolidación del cultivo.
 
-      p.mb-5 En el proceso de consolidación del cultivo in vitro Suárez-Padrón (2020) postula las fases reposo, exponencial, lineal, desaceleración y estacionaria. El significado e implicaciones de cada una de las mismas, es el siguiente:
+      p.mb-5 En el proceso de consolidación del cultivo #[i in vitro] Suárez-Padrón (2020) postula las fases reposo, exponencial, lineal, desaceleración y estacionaria. El significado e implicaciones de cada una de las mismas, es el siguiente:
 
       .tarjeta.tarjeta--gris.p-4
         PasosB.color-secundario
@@ -96,7 +96,7 @@
     #t_1_2.titulo-segundo.color-secundario.mt-5
       h2 1.2 Sustratos de propagación
 
-    p.mb-5 Una vez realizada la determinación del material para la realización de la propagación in vitro, se describen los sustratos de propagación.
+    p.mb-5 Una vez realizada la determinación del material para la realización de la propagación #[i in vitro], se describen los sustratos de propagación.
 
     .tarjeta.fondo-3.p-4.mb-5(data-aos="fade-right")
       SlyderA(tipo="b")
@@ -137,7 +137,7 @@
         .row.justify-content-center(titulo="Paso 3")
           .col-md-5.mb-4.mb-md-0(data-aos="fade-right")
             h4.mb-3 Adición del agar
-            p a adición del agar proporciona estructura física de contacto al tejido (en el caso de medios que impliquen consistencia semisólida); es importante mencionar que la adición del agar debe suceder de forma posterior a la medición del pH, pues una posible adición previa a la medición, podría afectar el instrumento de medición (potenciómetro) hasta averiarlo.
+            p La adición del agar proporciona estructura física de contacto al tejido (en el caso de medios que impliquen consistencia semisólida); es importante mencionar que la adición del agar debe suceder de forma posterior a la medición del pH, pues una posible adición previa a la medición, podría afectar el instrumento de medición (potenciómetro) hasta averiarlo.
           .col-md-5(data-aos="fade-left")
             figure
               img(src='@/assets/curso/temas/tema_1/img_18.png', alt='Texto que describa la imagen')
@@ -160,11 +160,11 @@
     #t_1_3.titulo-segundo.color-secundario.mt-5
       h2 1.3  Métodos de propagación
 
-    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-4(data-aos="fade-left").mb-5
+    .bloque-texto-g.color-primario.p-4.p-sm-4.p-md-4(data-aos="fade-left").mb-5
       .bloque-texto-g__img.m-left(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema_1/img_21.png')})`}"
       )
-      .bloque-texto-g__texto.p-5
+      .bloque-texto-g__texto.p-5.caj_txt
         p.mb-0 Una vez determinados los materiales y los sustratos de propagación, se procede a la determinación de métodos de micropropagación más pertinentes para el proceso que se pretende desarrollar, partiendo del reconocimiento de la necesidad de cumplimiento estricto de los diferentes requerimientos de laboratorio para el logro del objetivo; entre estas exigencias, se destaca el manejo controlado de las condiciones ambientales, mediante una infraestructura acorde con el cumplimiento de dichas garantías de producción (Vences-Contreras, 2016).
 
     .row.justify-content-center.mb-5
@@ -179,7 +179,7 @@
           .col-md-6
             h4 Micropropagación a partir del cultivo de ex plantes con meristemos pre existentes
             p Micropropagar material vegetal desde ex plantes con meristemos preexistentes, es una técnica que permite reproducir tallos nuevos, sea desde meristemos terminales o meristemos axilares, continuando con el proceso de enraizamiento respectivo. La ocurrencia de la micropropagación referenciada sucede por la inducción del crecimiento de las yemas que se encuentran en el ex plante, crecimiento que es la resultante de la supresión de la dominancia apical de este, producto del surgimiento en altas proporciones de proteínas en el sustrato. 
-            p Este tipo de técnica es de mayor utilización para la producción de cultivos in vitro, puesto que garantiza un alto potencial de estabilidad genética y notables tasas de efectividad, en la más amplia gama de materiales vegetales objeto de propagación. Los estados que presenta este tipo de micropropagación son acondicionamiento de plantas madre, establecimiento del cultivo estéril in vitro, multiplicación del propágulo, enraizamiento y adaptación a condiciones ex vitro.
+            p Este tipo de técnica es de mayor utilización para la producción de cultivos #[i in vitro], puesto que garantiza un alto potencial de estabilidad genética y notables tasas de efectividad, en la más amplia gama de materiales vegetales objeto de propagación. Los estados que presenta este tipo de micropropagación son acondicionamiento de plantas madre, establecimiento del cultivo estéril #[i in vitro], multiplicación del propágulo, enraizamiento y adaptación a condiciones ex vitro.
       .py-3.py-md-4(titulo="Organogénesis")
         .row.justify-content-center.align-items-center
           .col-md-5.mb-4.mb-md-0
@@ -193,7 +193,7 @@
             img.img-a(src='@/assets/curso/temas/tema_1/img_24.png', alt='Texto que describa la imagen')
           .col-md-6
             h4 Embriogénesis somática
-            p La tercera técnica, denominada embriogénesis somática, se enfoca en la generación de tejido embrionario desde células distintas al zigoto, los cuales se conocen como embriones somáticos, siendo un proceso que, en plantas angiospermas sucede al integrarse gameto femenino con gameto masculino en el saco embrionario, para posteriormente establecer un continuo de divisiones celulares y diferenciación de las mismas que concluye con el establecimiento de un embrión cobijado por el tejido cubierta de la semilla; para las condición in vitro, el inicio del proceso de embriogénesis sucede desde células somáticas, siendo el resultado, un embrión que carece de la protección de tejido cubierta propio de las semillas.
+            p La tercera técnica, denominada embriogénesis somática, se enfoca en la generación de tejido embrionario desde células distintas al zigoto, los cuales se conocen como embriones somáticos, siendo un proceso que, en plantas angiospermas sucede al integrarse gameto femenino con gameto masculino en el saco embrionario, para posteriormente establecer un continuo de divisiones celulares y diferenciación de las mismas que concluye con el establecimiento de un embrión cobijado por el tejido cubierta de la semilla; para las condición #[i in vitro], el inicio del proceso de embriogénesis sucede desde células somáticas, siendo el resultado, un embrión que carece de la protección de tejido cubierta propio de las semillas.
 
     separador
     #t_1_4.titulo-segundo.color-secundario.mt-5
@@ -206,7 +206,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema_1/img_25.png')})`}"
           )
           .bloque-texto-g__texto.p-4.text-small
-            p.mb-0 Teniendo en cuenta los requerimientos técnicos para llevar a cabo el proceso de micropropagación del tejido vegetal in vitro, así como las condiciones controladas del entorno inmediato que se han descrito anteriormente, el laboratorio en el cual se han de llevar a cabo las diferentes actividades relacionadas, debe contar con una dotación instrumental acorde con los distintos procedimientos de interés, puesto que su presencia y acción es complementaria.#[br]
+            p.mb-0 Teniendo en cuenta los requerimientos técnicos para llevar a cabo el proceso de micropropagación del tejido vegetal #[i in vitro], así como las condiciones controladas del entorno inmediato que se han descrito anteriormente, el laboratorio en el cual se han de llevar a cabo las diferentes actividades relacionadas, debe contar con una dotación instrumental acorde con los distintos procedimientos de interés, puesto que su presencia y acción es complementaria.#[br]
             p.mb-0 #[b Este tipo de dotación instrumental puede clasificarse en tres categorías específicas, a saber: equipos, utensilios y reactivos.]
 
     p.mb-5 A continuación, se presentan algunos de los equipos destacados para la determinación de la dotación instrumental, incluyendo su función.
@@ -229,19 +229,19 @@
           .col-8
             img.img-a(src='@/assets/curso/temas/tema_1/img_28.svg' alt='AvatarTop')
         h4.text-center Estufa de secado
-        p.text-center.mb-0 Su función consiste en el secado de instrumentos
+        p.text-center.mb-0 Su función consiste en el secado de instrumentos.
       .tarjeta.bg_1.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
             img.img-a(src='@/assets/curso/temas/tema_1/img_29.svg' alt='AvatarTop')
         h4.text-center Medidor de pH
-        p.text-center.mb-0 Su función consiste en la medición del pH de sustrato
+        p.text-center.mb-0 Su función consiste en la medición del pH de sustrato.
       .tarjeta.bg_1.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
             img.img-a(src='@/assets/curso/temas/tema_1/img_30.svg' alt='AvatarTop')
         h4.text-center Plato giratorio
-        p.text-center.mb-0 Su función consiste en la dilución de componentes
+        p.text-center.mb-0 Su función consiste en la dilución de componentes.
       .tarjeta.bg_1.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
@@ -277,13 +277,13 @@
           .col-8
             img.img-a(src='@/assets/curso/temas/tema_1/img_35.svg' alt='AvatarTop')
         h4.text-center Microscopio
-        p.text-center.mb-0 Su función consiste en el reconocimiento de estructuras celulares
+        p.text-center.mb-0 Su función consiste en el reconocimiento de estructuras celulares.
       .tarjeta.bg_1.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
             img.img-a(src='@/assets/curso/temas/tema_1/img_36.svg' alt='AvatarTop')
         h4.text-center Agitador orbital
-        p.text-center.mb-0 Su función consiste en la preparación de sustancias
+        p.text-center.mb-0 Su función consiste en la preparación de sustancias.
       .tarjeta.bg_1.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
@@ -295,7 +295,7 @@
           .col-8
             img.img-a(src='@/assets/curso/temas/tema_1/img_38.svg' alt='AvatarTop')
         h4.text-center Aire acondicionado
-        p.text-center.mb-0 Su función consiste en la regulación de condiciones ambientales
+        p.text-center.mb-0 Su función consiste en la regulación de condiciones ambientales.
 
     .fondo-4.p-5.mb-5
       p.mb-5 Otra categoría fundamental en la dotación de instrumentos, son los utensilios. En la imagen se encuentran utensilios reconocidos como aquellos de relevancia fundamental en el proceso de micropropagación.
@@ -344,7 +344,9 @@
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema_1/img_43.png')})`}"
         )
         .bloque-texto-g__texto.p-4
-          p.mb-0 Una vez realizado el reconocimiento de los métodos de propagación, se van a abordar los mecanismos de seguimiento al proceso. Al respecto se puede indicar que cada proceso emprendido con fines de cumplir un objetivo, requiere del establecimiento metódico de los diferentes procedimientos implicados en su materialización; la naturaleza de cada temática define las necesidades de monitoreo y control de cada uno de los pasos, de manera que asegure el logro de cada constituyente, para alcanzar una construcción conjunta y armónica del camino que oriente al cumplimiento de una meta. 
+          p.mb-0 Una vez realizado el reconocimiento de los métodos de propagación, se van a abordar los mecanismos de seguimiento al proceso. #[b Al respecto se puede indicar que cada proceso emprendido con fines de cumplir un objetivo, requiere del establecimiento metódico de los diferentes procedimientos implicados en su materialización]; la naturaleza de cada temática define las necesidades de monitoreo y control de cada uno de los pasos, de manera que asegure el logro de cada constituyente, para alcanzar una construcción conjunta y armónica del camino que oriente al cumplimiento de una meta. 
+
+      p.mb-5 Proporcionando continuidad al seguimiento al proceso, se puede indicar que, en la micropropagación, al tratarse de un conjunto de procedimientos que exigen el cumplimiento de diversas situaciones garantes de la manipulación apropiada de los tejidos y el control de las condiciones ambientales, requiere de un monitoreo y control estricto, tal como se describe a continuación.
 
       .tarjeta.fondo-1.p-4.mb-5(data-aos="fade-right")
         SlyderA(tipo="b")
@@ -392,9 +394,9 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema_1/img_51.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Entre todos los elementos referenciados con anterioridad, es la asepsia la piedra angular del proceso de micropropagación de material vegetal in vitro, debido a que las condiciones ambientales artificiales generadas, aunadas con la disponibilidad nutricional y ausencia de agentes antagónicos, permite que la presencia de cualquier organismo microbiano encuentre un entorno óptimo para el establecimiento y proliferación; un episodio de contaminación de este tipo, puede causar la pérdida, sea parcial o total, del tejido cultivado. La amenaza por agentes microbianos es permanente, pero el momento más álgido es durante el establecimiento del explante en el medio. 
+            p.mb-0 Entre todos los elementos referenciados con anterioridad, es la asepsia la piedra angular del proceso de micropropagación de material vegetal #[i in vitro], debido a que las condiciones ambientales artificiales generadas, aunadas con la disponibilidad nutricional y ausencia de agentes antagónicos, permite que la presencia de cualquier organismo microbiano encuentre un entorno óptimo para el establecimiento y proliferación; un episodio de contaminación de este tipo, puede causar la pérdida, sea parcial o total, del tejido cultivado. La amenaza por agentes microbianos es permanente, pero el momento más álgido es durante el establecimiento del explante en el medio. 
 
-    p.mb-5 Recordando la condición de artificialidad propia del cultivo in vitro, cualquier tipo de organismo microbiano se identifica como potencial agente contaminante del material vegetal y, por lo tanto, una amenaza para la producción proyectada. Se reconocen entre estos, bacterias, hongos y virus. A continuación, algunos elementos asociados a posibles condiciones indicadoras de contaminación por cada uno de este tipo de agentes en un cultivo in vitro.
+    p.mb-5 Recordando la condición de artificialidad propia del cultivo #[i in vitro], cualquier tipo de organismo microbiano se identifica como potencial agente contaminante del material vegetal y, por lo tanto, una amenaza para la producción proyectada. Se reconocen entre estos, bacterias, hongos y virus. A continuación, algunos elementos asociados a posibles condiciones indicadoras de contaminación por cada uno de este tipo de agentes en un cultivo #[i in vitro].
 
     
     .row.mb-5.bg_2
@@ -403,7 +405,7 @@
       .col-lg-7
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           div(titulo="Bacterias")
-            p Son los agentes más comunes en los cultivos in vitro y ocasionan en los tejidos vegetales síntomas como no uniformidad de crecimiento, necrosis localizada, tasas modestas de multiplicación de brotes, baja capacidad de enraizamiento y hasta la muerte del explante. 
+            p Son los agentes más comunes en los cultivos #[i in vitro] y ocasionan en los tejidos vegetales síntomas como no uniformidad de crecimiento, necrosis localizada, tasas modestas de multiplicación de brotes, baja capacidad de enraizamiento y hasta la muerte del explante. 
           div(titulo="Hongos")
             p Son reconocidos como agentes con actuación externa al explante, con algunos casos excepcionales en los cuales ciertas especies afectan el tejido vascular del material en formación; el crecimiento del micelio puede cubrir con rapidez al explante y ocasionar la muerte de sus tejidos.
           div(titulo="Virus")
@@ -412,7 +414,7 @@
     .fondo-7.p-5.mb-5
       .row.justify-content-center.align-items-center
        .col-lg-6.mb-4.mb-md-0
-        p Además de los organismos microbianos que se presentan como amenazas para el cultivo in vitro, también se presentan otros elementos que también deben ser considerados, debido a la fragilidad manifiestas del material vegetal; tal es el caso de los ataques por artrópodos, entre los que se destacan algunos arácnidos, ácaros y trips, así como hormigas que además de generar un impacto mecánico directo, pueden facilitar el ingreso de algunos de los mencionados microorganismos al espacio controlado.
+        p Además de los organismos microbianos que se presentan como amenazas para el cultivo #[i in vitro], también se presentan otros elementos que también deben ser considerados, debido a la fragilidad manifiestas del material vegetal; tal es el caso de los ataques por artrópodos, entre los que se destacan algunos arácnidos, ácaros y #[i trips], así como hormigas que además de generar un impacto mecánico directo, pueden facilitar el ingreso de algunos de los mencionados microorganismos al espacio controlado.
        .col-lg-4
         img.img-a(src='@/assets/curso/temas/tema_1/img_53.png', alt='Texto que describa la imagen')
       
@@ -425,7 +427,7 @@
           .tarjeta.bg_3
             .p-4
               h4.text-center Material vegetal
-              p.text-center.mb-0 En términos del material vegetal, la presencia de insectos y microorganismos en plantas en sus condiciones naturales, puede transformarse en una amenaza para el cultivo in vitro (vitro patógenos); estos pueden encontrarse en cavidades de tallos y órganos del material vegetal, desde el cual se toma el explante, ubicación que puede dificultar su eliminación en el procedimiento de desinfección.
+              p.text-center.mb-0 En términos del material vegetal, la presencia de insectos y microorganismos en plantas en sus condiciones naturales, puede transformarse en una amenaza para el cultivo #[i in vitro] (vitro patógenos); estos pueden encontrarse en cavidades de tallos y órganos del material vegetal, desde el cual se toma el explante, ubicación que puede dificultar su eliminación en el procedimiento de desinfección.
 
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
@@ -441,9 +443,9 @@
           .tarjeta.bg_3
             .p-4
               h4.text-center Operario
-              p.text-center.mb-0 Finalmente, el papel del operario u operarios que, al igual que las superficies vegetales, cuenta con una con una flora en interacción con la epidermis y que en el escenario de un cultivo in vitro, podría contaminar el material vegetal, incluso, con producto del mismo proceso de renovación de la piel puede llegar a contaminar el cultivo o con la saliva expulsada al hablar.
+              p.text-center.mb-0 Finalmente, el papel del operario u operarios que, al igual que las superficies vegetales, cuenta con una con una flora en interacción con la epidermis y que en el escenario de un cultivo #[i in vitro], podría contaminar el material vegetal, incluso, con producto del mismo proceso de renovación de la piel puede llegar a contaminar el cultivo o con la saliva expulsada al hablar.
 
-    p.mb-5 En el siguiente video se presentará la técnica estéril para la micropropagación in vitro.
+    p.mb-5 En el siguiente video se presentará la técnica estéril para la micropropagación #[i in vitro].
 
     figure
       .video
