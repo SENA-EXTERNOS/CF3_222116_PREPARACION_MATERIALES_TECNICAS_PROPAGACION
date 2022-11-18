@@ -269,7 +269,7 @@ export default {
     },
     {
       referencia:
-        'Flores-Hernández, LA. Robledo-Paz, A. Jimarez-Montiel, MJ (2017). Medio de cultivo y sustitutos del agar en el crecimiento <em>in vitro</em> de orquídeas, en: Revista Mexicana de Ciencias Agrícolas, (8) (6) pp. 1315-1328. Disponible en:',
+        'Flores-Hernández, LA. Robledo-Paz, A. Jimarez-Montiel, MJ (2017). Medio de cultivo y sustitutos del agar en el crecimiento <em>in vitro</em> de orquídeas, en: <em>Revista Mexicana de Ciencias Agrícolas</em>, (8) (6) pp. 1315-1328. Disponible en:',
       link:
         'https://www.scielo.org.mx/pdf/remexca/v8n6/2007-0934-remexca-8-06-1315-en.pdf',
     },
