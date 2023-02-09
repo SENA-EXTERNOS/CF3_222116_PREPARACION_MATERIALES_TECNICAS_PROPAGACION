@@ -2,15 +2,10 @@ export default {
   global: {
     componenteFormativo: 'Preparación de materiales y técnicas de propagación',
     descripcionCurso:
-      'El componente formativo tres (3) aborda el proceso de propagación de material vegetal, estableciendo condiciones precisas de asepsia en la implementación. Entre los aspectos determinantes, resaltan la clasificación específica del material vegetal, define métodos de propagación, uso de equipos y herramientas, interpretación de condiciones de nutrición vegetal, preparación medios de cultivo y definición de protocolos de seguimiento al cultivo.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
+      'Este componente formativo aborda el proceso de propagación de material vegetal, estableciendo condiciones precisas de asepsia, en la implementación. Entre los aspectos determinantes, resaltan la clasificación específica del material vegetal, definir métodos de propagación, uso de equipos y herramientas, interpretación de condiciones de nutrición vegetal, preparación de medios de cultivo y definición de protocolos de seguimiento al cultivo.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
-    imagenesDecorativasBanner: [
-      {
-        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
-      },
-    ],
+    imagenesDecorativasBanner: [{}],
   },
   menuPrincipal: {
     menu: [
@@ -38,36 +33,6 @@ export default {
             titulo: 'Determinación de material',
             hash: 't_1_1',
           },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Sustratos de propagación',
-            hash: 't_1_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Métodos de propagación',
-            hash: 't_1_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.4',
-            titulo: 'Equipos y herramientas de propagación',
-            hash: 't_1_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.5',
-            titulo: 'Mecanismos de seguimiento al proceso',
-            hash: 't_1_5',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.6',
-            titulo: 'Gestión de higiene y residuos en la propagación',
-            hash: 't_1_6',
-          },
         ],
       },
 
@@ -77,21 +42,6 @@ export default {
         numero: '2',
         titulo: 'Inicio del ciclo del cultivo <em>in vitro</em>',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo:
-              'Introducción de los tejidos seleccionados al medio de cultivo',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Multiplicación de brotes y generación de subcultivos',
-            hash: 't_2_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
@@ -99,49 +49,14 @@ export default {
         numero: '3',
         titulo: 'Nutrición vegetal',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Micronutrientes y macronutrientes',
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Vitaminas, carbohidratos, aminoácidos y gelificantes',
-            hash: 't_3_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.3',
-            titulo: 'Reguladores de crecimiento',
-            hash: 't_3_3',
-          },
-        ],
       },
       {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
         numero: '4',
         titulo:
-          'Unidades de expresión de las sustancias en preparación de cultivo ',
+          'Unidades de expresión de las sustancias en preparación para el cultivo',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.1',
-            titulo:
-              'Elementos a utilizar, cálculos de producción en sustancias, nomenclatura y propiedades de componentes',
-            hash: 't_4_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.2',
-            titulo: 'Aplicación de fórmulas para disolución',
-            hash: 't_4_2',
-          },
-        ],
       },
     ],
     subMenu: [
@@ -186,32 +101,33 @@ export default {
   },
   complementario: [
     {
-      tema: 'Medios de cultivo',
+      tema: 'Propagación de material vegetal',
       referencia:
-        'Hernández-Morales, R (27 de octubre de 2021). Medios de cultivo en propagación vegetal [Archivo de video]. You Tube. ',
+        'Hernández-Morales, R (27 de octubre de 2021). <em>Medios de cultivo en propagación vegetal.</em> [Archivo de video]. You Tube. ',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=Kn5rvSDRCXA  ',
+      link: 'https://www.youtube.com/watch?v=Kn5rvSDRCXA',
     },
     {
-      tema: 'Establecimiento de cultivo <em>in vitro</em>',
+      tema: 'Inicio del ciclo de cultivo <em>in vitro</em>',
       referencia:
-        'Suárez-Padrón, I (2020). Cultivo de tejidos vegetales. Fondo editorial Universidad de Córdoba. Consultado en',
+        'Suárez-Padrón, I (2020). <em>Cultivo de tejidos vegetales</em>. Fondo editorial Universidad de Córdoba. Consultado en',
       tipo: 'Libro',
-      descarga: '/downloads/288339333.pdf',
+      link: 'https://core.ac.uk/download/pdf/288339333.pdf',
     },
     {
-      tema: 'Técnicas de micropropagación',
+      tema: 'Propagación de material vegetal',
       referencia:
-        'Perea, M (2009). Cultivo de tejidos vegetales <em>in vitro</em>. Consultado de',
+        'Perea, M (2009). <em>Cultivo de tejidos vegetales in vitro</em>. Consultado de',
       tipo: 'Libro',
-      descarga: '/downloads/Cultivo_de_Tejidos_Vegetales_In_Vitro.pdf',
+      link:
+        'http://ciencias.bogota.unal.edu.co/fileadmin/Facultad_de_Ciencias/Publicaciones/Imagenes/Portadas_Libros/Biologia/Cultivo_de_Tejidos_Vegetales_In_Vitro/Cultivo_de_Tejidos_Vegetales_In_Vitro.pdf?fbclid=IwAR2xLhdtU-7yKztpAvuWQjdZYh-ltzpcYT6PnzpAErkw__ZozfqclxwYy-Y',
     },
     {
-      tema: 'Orientaciones de laboratorio',
+      tema: 'Unidades de expresión de las sustancias en preparación de cultivo',
       referencia:
-        'Ruíz-Benítez, M. (2020). Biotecnología de plantas. Guía. Consultado de',
+        'Ruíz-Benítez, M. (2020). <em>Biotecnología de plantas</em>. Guía. Consultado de',
       tipo: 'Guia',
-      descarga: '/downloads/Guia_de_Biotecnologia_de_plantas.pdf',
+      link: '/downloads/Guia_de_Biotecnologia_de_plantas.pdf',
     },
   ],
   glosario: [
@@ -264,33 +180,26 @@ export default {
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
-    },
-    {
       referencia:
-        'Flores-Hernández, LA. Robledo-Paz, A. Jimarez-Montiel, MJ (2017). Medio de cultivo y sustitutos del agar en el crecimiento <em>in vitro</em> de orquídeas, en: <em>Revista Mexicana de Ciencias Agrícolas</em>, (8) (6) pp. 1315-1328. Disponible en:',
+        'Flórez-Hernández, L. A. Robledo-Paz, A. & Jimarez-Montiel, M. J. (2017). Medio de cultivo y sustitutos del agar en el crecimiento <em>in vitro</em> de orquídeas. <em>Revista Mexicana de Ciencias Agrícolas, 8</em>(6), p. 1315-1328. ',
       link:
         'https://www.scielo.org.mx/pdf/remexca/v8n6/2007-0934-remexca-8-06-1315-en.pdf',
     },
-
     {
       referencia:
-        'Ramos, A. Cano, J. López, G. & Varguez, A (2021). Alcances y perspectivas del área de biotecnología vegetal del CIATEJ en el Sureste de México. ISNB-978-607-8734-24-5. Disponible en:',
+        'Ramos, A., Cano, J., López, G. & Varguez, A. (2021). <em>Alcances y perspectivas del área de biotecnología vegetal del CIATEJ en el Sureste de México</em>. ',
       link:
         'https://www.researchgate.net/publication/354659004_Alcances_y_perspectivas_del_area_de_Biotecnologia_Vegetal_del_CIATEJ_en_el_Sureste_de_Mexico',
     },
-
     {
       referencia:
-        'Suárez-Padrón, I (2020). Cultivo de tejidos vegetales. ISNB-978-958-5104-09-9. Disponible en:',
+        'Suárez-Padrón, I (2020). <em>Cultivo de tejidos vegetales</em>. ',
       link:
-        'https://repositorio.unicordoba.edu.co/handle/ucordoba/2553#:~:text=El%20cultivo%20de%20tejidos%20vegetales,agr%C3%ADcola%20y%20la%20investigaci%C3%B3n%20vegetal.',
+        'https://repositorio.unicordoba.edu.co/handle/ucordoba/2553#:~:text=El%20cultivo%20de%20tejidos%20vegetales,agr%C3%ADcola%20y%20la%20investigaci%C3%B3n%20vegetal',
     },
-
     {
       referencia:
-        'Vences-Contreras, C (2016). Manual de prácticas. Unidad de aprendizaje: micropropagación vegetal. Universidad Autónoma del Estado de México. Facultad de Ciencias Agrarias. Disponible en:',
+        'Vences-Contreras, C. (2016). <em>Manual de prácticas. Unidad de aprendizaje: micropropagación vegetal</em>. Universidad Autónoma del Estado de México. Facultad de Ciencias Agrarias.',
       link:
         'http://ri.uaemex.mx/bitstream/handle/20.500.11799/64552/secme-12254.pdf?sequence=',
     },

@@ -12,31 +12,38 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema_2/img_1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0.text-small Luego del reconocimiento del proceso de la micropropagación de material vegetal, se continúa presentando un contenido introductorio a la temática general de propagación #[i in vitro], exponiendo el panorama asociado a las diferentes fases generales de esta técnica de reproducción asexual del material vegetal. En este recorrido, se proporcionan elementos relacionados con las condiciones y procedimientos básicos de introducción de los tejidos a los medios de cultivo, la correspondiente multiplicación de brotes necesaria para el logro de nuevos individuos y, finalmente, un recorrido por los aspectos requeridos para el sostenimiento de los explantes y su consolidación. 
+        p.mb-0.text-small Luego del aprendizaje del proceso de la micropropagación de material vegetal, se continúa con el contenido sobre la temática general de propagación in vitro, mostrando el panorama asociado con las diferentes fases generales de esta técnica de reproducción asexual del material vegetal. 
+        br
+        br
+        p.mb-0.text-small En este tema, se proporcionan elementos relacionados con las condiciones y procedimientos básicos de introducción de los tejidos a los medios de cultivo, la correspondiente multiplicación de brotes, necesaria para el logro de nuevos individuos y, finalmente, un recorrido por los aspectos requeridos para el sostenimiento de los explantes y su consolidación.
 
-    separador
-    #t_2_1.titulo-segundo.color-secundario.mt-5
-      h2 2.1 Introducción de los tejidos seleccionados al medio de cultivo
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.mt-5
+      h3 Introducción de los tejidos seleccionados al medio de cultivo
+
+    .row.justify-content-center.align-items-center.mb-5.mt-5
       .col-lg-2.mb-4.mb-md-0(data-aos="fade-right")
-        img.img-a(src='@/assets/curso/temas/tema_2/img_2.png', alt='Texto que describa la imagen')
+        img.img-a(src='@/assets/curso/temas/tema2/img1.svg', alt='Texto que describa la imagen')
       .col-lg-8(data-aos="fade-left")
-        p La propagación #[i in vitro] de material vegetal, integra un conjunto de procesos que deben ser meticulosamente desarrollados para lograr el objetivo de producción; el paso inicial de esto es la introducción de los tejidos al medio seleccionado.
+        p Introducción de los tejidos seleccionados al medio de cultivo
 
-    p.mb-5 Para establecer un proceso de propagación vegetal #[i in vitro], es necesario comprender la necesidad de contar con un medio de cultivo apropiado para el desarrollo de las fases implicadas.
+        p La propagación in vitro de material vegetal, integra un conjunto de procesos que deben ser meticulosamente desarrollados, para lograr el objetivo de producción; el paso inicial de este procedimiento, es la introducción de los tejidos al medio seleccionado.
+
+    p.mb-5 Para establecer un proceso de propagación vegetal in vitro, es necesario comprender la necesidad de contar con un medio de cultivo apropiado para el desarrollo de las fases implicadas. Conozcamos más sobre el tema.
 
     .tarjeta.fondo-3.p-4.mb-5(data-aos="fade-right")
       SlyderA(tipo="b")
         .row.justify-content-center.align-items-center
           .col-md-4.mb-4.mb-md-0.text-small
-            p Para la técnica de cultivo #[i in vitro], el medio de cultivo funciona como sustrato, pero también como fuente energética, fundamental para el desarrollo de los tejidos.      
+            p Para establecer un proceso de propagación vegetal in vitro, es necesario comprender la necesidad de contar con un medio de cultivo apropiado para el desarrollo de las fases implicadas. Conozcamos más sobre el tema.
+
           .col-md-7
             figure
               img.img-a(src='@/assets/curso/temas/tema_2/img_3.png', alt='Texto que describa la imagen')
         .row.justify-content-center.align-items-center
           .col-md-4.mb-4.mb-md-0.text-small
-            p Los medios de cultivo son la combinación de diferentes componentes, que varían proporcionalmente de acuerdo con las características del tejido que se pretende desarrollar, sean yema, porciones de hoja, células, porciones de tallo, entre otros, y por el proceso morfogenético que se desea seguir (cultivo de meristemos, organogénesis o embriogénesis somática).    
+            p Los medios de cultivo están conformados por la combinación de diferentes componentes, que varían proporcionalmente, de acuerdo con las características del tejido que se pretende desarrollar, sea yema, porciones de hoja, células, porciones de tallo, entre otros, y por el proceso morfogenético que se desea seguir (cultivo de meristemos, organogénesis o embriogénesis somática).
+
           .col-md-7
             figure
               img.img-a(src='@/assets/curso/temas/tema_2/img_4.png', alt='Texto que describa la imagen')
@@ -75,7 +82,7 @@
           .tarjeta.tarjeta-slide.izquierda.tarjeta_2(@mouseover="indicadorTarjetaSlide = false")
             .indicador--hover(v-if="indicadorTarjetaSlide")
             .tarjeta-slide__contenedor
-              .tarjeta-slide__img.img-a(:style="{'background-image': `url(${require('@/assets/curso/temas/tema_2/img_8.svg')})`}")
+              .tarjeta-slide__img.img-a(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img3.svg')})`}")
               .tarjeta-slide__contenido.px-4.py-5.p-xl-4.aling-items-center.text-center
                 h2 Mecanismo de soporte
                 p Estos son, básicamente, agentes gelatinizantes que proporcionan cierta dureza al medio de cultivo.
@@ -89,7 +96,7 @@
                 h2 Preparación del medio de cultivo
                 p También se conoce como la elaboración propiamente dicha de la mezcla, conservando pH apropiado, consistencia y asepsia.
 
-    p.mb-5 Luego de la definición de todo lo señalado hasta el presente punto, se procede a introducir el material vegetal #[i in vitro]; para el desarrollo de esto se debe:
+    p.mb-5 Continuando con este aprendizaje, se procede a introducir el material vegetal in vitro; para el desarrollo de este proceso, es importante conocer los siguientes pasos:
 
     .tarjeta.bg_4.p-4
       PasosB.color-primario
@@ -103,14 +110,16 @@
         .row.justify-content-center(titulo="Paso 2")
           .col-md-5.mb-4.mb-md-0(data-aos="fade-right")
             h4.mb-3 Paso 2
-            p Extraer los fragmentos de planta madre, obteniendo los ex plantos requeridos, sean yemas, trozos de hojas, raíces o semillas.
+            p Extraer los fragmentos de la planta madre, para obtener los explantos requeridos, sean yemas, trozos de hojas, raíces o semillas.
+
           .col-md-5(data-aos="fade-left")
             figure
               img(src='@/assets/curso/temas/tema_2/img_10.png', alt='Texto que describa la imagen')
         .row.justify-content-center(titulo="Paso 3")
           .col-md-5.mb-4.mb-md-0(data-aos="fade-right")
             h4.mb-3 Paso 3
-            p Desinfectar el material vegetal, que puede lograrse a través del uso de agua esterilizadas por un tiempo prudencial (5 -15 minutos).
+            p Desinfectar el material vegetal; este paso puede lograrse con el uso de agua esterilizada, por un tiempo prudencial (5 -15 minutos).
+
           .col-md-5(data-aos="fade-left")
             figure
               img(src='@/assets/curso/temas/tema_2/img_10.png', alt='Texto que describa la imagen')
@@ -122,18 +131,17 @@
             figure
               img(src='@/assets/curso/temas/tema_2/img_10.png', alt='Texto que describa la imagen')
 
-    separador
-    #t_2_2.titulo-segundo.color-secundario.mt-5
-      h2 2.2 Multiplicación de brotes y generación de subcultivos
+    .row.mt-5
+      h3 Multiplicación de brotes y generación de subcultivos
 
-    .row.justify-content-center
-      .col-lg-10
-        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-4(data-aos="fade-left")
-          .bloque-texto-g__img.m-left(
-            :style="{'background-image': `url(${require('@/assets/curso/temas/tema_2/img_11.png')})`}"
-          )
-          .bloque-texto-g__texto.p-4
-            p.mb-0.text-small Posterior a la fase de introducción de los tejidos al medio, se da inicio al proceso de micropropagación a partir de explantes con meristemos terminales y axilares; esto se traduce en la producción de nuevos tallos. Tras la obtención de los nuevos brotes, estos deben cultivarse en un nuevo medio, generando divisiones y resiembras en tubos de cultivo u otros medios recipientes adecuados. Es importante resaltar que estas actividades deben ser realizadas en condiciones que garanticen la asepsia; esto se posibilita en cámaras de flujo laminar.
+    .row.justify-content-center.mb-5.mt-5
+        .col-lg-3(data-aos="fade-left")
+            figure
+              img(src='@/assets/curso/temas/tema2/img2.svg', alt='Texto que describa la imagen')
+        .col-lg-9
+          .cajon.color-acento-botones.p-4.mb-4
+            p.mb-0 Una vez realizado el reconocimiento de los métodos de propagación, se van a abordar los mecanismos de seguimiento al proceso. Se puede indicar que cada proceso emprendido con fines de cumplir un objetivo, requiere del establecimiento metódico de los diferentes procedimientos implicados en su materialización; la naturaleza de cada temática define las necesidades de monitoreo y control de cada uno de los pasos, de manera que asegure el logro de cada constituyente, para alcanzar una construcción conjunta y armónica del camino que oriente al cumplimiento de una meta. 
+
 
 </template>
 

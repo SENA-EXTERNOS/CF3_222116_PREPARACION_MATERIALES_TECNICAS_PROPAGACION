@@ -5,26 +5,25 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Unidades de expresión de las sustancias en preparación de cultivo 
+      h1 Unidades de expresión de las sustancias en preparación para el cultivo
 
     .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-4(data-aos="fade-left")
       .bloque-texto-g__img.m-left(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema_4/img_1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 El desarrollo de formulaciones que permitieran obtener el medio de cultivo ideal ocupó gran parte de la atención de la investigación en este campo de la biotecnología durante la segunda mitad del siglo XX; este interés permitió la generación de diversas fórmulas, orientadas para diferentes propósitos, pero en su mayoría fundamentadas en la inserción de sales en cantidades relativamente bajas (Suárez-Padrón, 2020). 
+        p.mb-0 El desarrollo de formulaciones que permitieran obtener el medio de cultivo ideal, ocupó gran parte de la atención de la investigación en el campo de la biotecnología, durante la segunda mitad del siglo XX; este interés permitió la generación de diversas fórmulas, orientadas para diferentes propósitos, pero en su mayoría, fundamentadas en la inserción de sales en cantidades relativamente bajas. (Suárez-Padrón, 2020).
 
-    separador
-    #t_4_1.titulo-segundo.color-secundario.mt-5
-      h2 4.1 Elementos a utilizar, cálculos de producción en sustancias, nomenclatura y propiedades de componentes
+    .row.mt-5
+      h3 Elementos a utilizar, cálculos de producción en sustancias, nomenclatura y propiedades de componentes
 
-    p.mb-5 En el año de 1962, Toshio Murashige y Floke K. Skoog mientras investigaban requerimientos minerales en el tabaco, obtuvieron una combinación de sales, con altos contenidos de nitrato y amonio, que permitieron alcanzar tasas de crecimiento vegetal de hasta 25 veces más, que las combinaciones usadas tradicionalmente hasta ese momento. El rendimiento sin precedentes de esta formulación, ha permitido que en la actualidad siga siendo el principal medio de cultivo utilizado en el mundo.
+    p.mb-5 Mientras en 1962, Toshio Murashige y Floke K. Skoog, investigaban requerimientos minerales en el tabaco, obtuvieron una combinación de sales, con altos contenidos de nitrato y amonio, que permitieron alcanzar tasas de crecimiento vegetal, hasta 25 veces más que las combinaciones usadas tradicionalmente hasta ese momento. El rendimiento sin precedentes de esta formulación, ha permitido que, en la actualidad, siga siendo el principal medio de cultivo utilizado en el mundo.
 
     .cajon.color-secundario.mb-5
       .row
         .col-lg-6.d-flex.aliln_1
           .p-5
-            p Los componentes del medio de cultivo, regularmente son agua, minerales, compuestos orgánicos y materiales complementarios de soporte; las características generales de cada uno de estos constituyentes se reseñan a continuación.
+            p Por lo general, los componentes para un medio de cultivo son: agua, minerales, compuestos orgánicos y materiales complementarios de soporte; las características generales de cada uno de ellos, se conocen a continuación.
         .col-lg-6
           img.img-a(src='@/assets/curso/temas/tema_4/img_2.png', alt='Texto que describa la imagen')
 
@@ -40,14 +39,14 @@
         .tarjeta.bg_5
           .p-4
             h4.text-center Minerales
-            p.text-center.mb-0 Son los elementos inorgánicos requeridos para el desarrollo de la planta (macro y microelementos), entre los que se encuentran Nitrógeno, Fósforo, Potasio, Magnesio, Azufre, Calcio, Cloro, Sodio, Manganeso, Zinc, Boro, Cobre, Molibdeno, Cobalto, Hierro (Flórez - Hernández #[i et al], 2017).
+            p.text-center.mb-0 Son los elementos inorgánicos requeridos para el desarrollo de la planta (macro y microelementos), entre los que se encuentran Nitrógeno, Fósforo, Potasio, Magnesio, Azufre, Calcio, Cloro, Sodio, Manganeso, Zinc, Boro, Cobre, Molibdeno, Cobalto, Hierro (Flórez – Hernández, et al., 2017).
 
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema_4/img_5.svg' alt='AvatarTop')
         .tarjeta.bg_5
           .p-4
             h4.text-center Compuestos Orgánicos
-            p.text-center.mb-0 Compuestos orgánicos conformados por moléculas de átomos de carbono, entre los que se encuentran carbohidratos o fuentes energéticas, vitaminas, reguladores de crecimiento y suplementos pertinentes.
+            p.text-center.mb-0 Los compuestos orgánicos están conformados por moléculas de átomos de carbono, entre los que se encuentran carbohidratos o fuentes energéticas, vitaminas, reguladores de crecimiento y suplementos pertinentes.
 
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema_4/img_5.svg' alt='AvatarTop')
@@ -60,20 +59,24 @@
       .row.d-flex
         .col-lg-6.aliln_1
           .p-5.text-small
-            p El cálculo de la cantidad de cada componente del medio de cultivo, es otro de los elementos cruciales del proceso; regularmente se expresan en unidades de masa; sin embargo, esto puede no reflejar siempre las diferencias en estructura molecular entre algunos de los componentes, esto debido a que la acción concreta depende de la cantidad de moléculas en el medio, más no del peso del mismo; esta condición se convierte en un factor crítico en los reguladores de crecimiento.
+            p El cálculo de la cantidad de cada componente para el medio de cultivo, es otro de los métodos cruciales del proceso; regularmente se expresan en unidades de masa, sin embargo, esto puede no reflejar siempre las diferencias en la estructura molecular entre algunos de los componentes; se debe a que la acción concreta depende de la cantidad de moléculas en el medio, más no en el peso del mismo y esta condición se convierte en un factor crítico en los reguladores de crecimiento.
             p Para superar esta posible dificultad, debe realizarse el cálculo de cantidades de componentes en unidades molares, recurriendo a las siguientes fórmulas de conversión (Suárez-Padrón, 2020):
-        .col-lg-6
-          img.img-a(src='@/assets/curso/temas/tema_4/img_7.png', alt='Texto que describa la imagen')
 
-    separador
-    #t_4_2.titulo-segundo.color-secundario.mt-5
-      h2 4.2	Aplicación de fórmulas para disolución
+        .col-lg-6
+          img.img-a(src='@/assets/curso/temas/tema_4/img_7.png', alt='Texto que describa la imagen').left-tema3
+
+    .row.mt-5
+      h3 Aplicación de fórmulas para disolución
 
     p.mb-5 El desarrollo de las mezclas de nutrientes y elementos complementarios para la consolidación de un medio de cultivo apropiado, se constituye como la base para la generación de las condiciones óptimas de propagación vegetativa; no existe un único método o combinación, se reconocen diversas opciones resultantes de procesos de investigación biotecnológica; los más destacados, se referencian en la siguiente tabla.
 
     .row.justify-content-center.mb-5
       .col-lg-5
+        .titulo-sexto.color-acento-contenido.mb-3
+          h5 Tabla 1
+          p <em>Macro y micronutrientes</em>  
         table.text-center
+          caption <b>Nota:</b> Tabla adaptada de Mezclas de Suárez (2020), Macro y micronutrientes, p. 51.
           thead.thead_1
             tr
               td
@@ -239,7 +242,8 @@
 
 
     .fondo-2.p-5
-      p.mb-5 Continuando con el planteamiento de Suárez-Padrón (2020), se reconocen tres tipos de formas de preparar los medios de cultivo, las cuales son:
+      p.mb-5 Continuando con el planteamiento de Suárez-Padrón (2020), se reconocen tres métodos para preparar los medios de cultivo; estos son:
+
       TabsC.color-secundario.mb-5
         .py-3.py-md-4(titulo="Pesaje de cada componente al momento de preparación de la fórmula").fondo-9
           .row.justify-content-center.align-items-center
@@ -266,9 +270,8 @@
     .row.justify-content-center
       .col-lg-10
         .cajon.color-secundario.p-4
-          p.mb-0 La comprensión de los diferentes elementos que competen a la propagación del material vegetal, no se limita a la adopción mecánica y reiterada de un tipo de procedimientos a desarrollar en el laboratorio, debe adentrarse el ejercicio sobre la interpretación apropiada de las formas, en las cuales se propende por el establecimiento del cultivo #[i in vitro] y la promoción del crecimiento como condiciones determinantes para sentar las bases del éxito productivo del proceso. Hemos llegado al final de este componente formativo.  Recuerde explorar los demás recursos que se encuentran disponibles, para ello diríjase al menú principal en el cual encontrará la síntesis, la actividad didáctica, material complementario, entre otros.
-
-      
+          p.mb-0 El conocimiento de los diferentes elementos que corresponden con la propagación del material vegetal, no se limita a la adopción mecánica y reiterada de un tipo de procedimientos a desarrollar en el laboratorio; se debe profundizar en el ejercicio sobre la interpretación apropiada de las formas, en las cuales se propende por el establecimiento del cultivo in vitro y la promoción del crecimiento, como condiciones determinantes para sentar las bases del éxito productivo del proceso. Hemos llegado al final de este componente formativo. Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal donde encontrará la síntesis, material complementario, entre otros. Adicional, lo invitamos a resolver la actividad didáctica para reforzar los conceptos estudiados en el componente formativo.
+          
     
 
 

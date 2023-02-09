@@ -3,8 +3,8 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p.mb-5 La micropropagación #[i in vitro] de material vegetal, proporciona notables oportunidades de eficiencia productiva; sin embargo, su éxito depende del apropiado alistamiento de locaciones y dotaciones, también de la interpretación oportuna de las necesidades nutricionales, así como el desarrollo de procedimientos específicos que permitan garantizar una manipulación apropiada de todos los elementos relacionados, pues la más mínima falencia, puede generar un fracaso parcial o total.
-
+    p.mb-5 El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo.
+    
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
