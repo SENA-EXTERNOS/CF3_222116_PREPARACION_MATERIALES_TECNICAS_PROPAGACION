@@ -71,7 +71,7 @@
     p.mb-5 El desarrollo de las mezclas de nutrientes y elementos complementarios para la consolidación de un medio de cultivo apropiado, se constituye como la base para la generación de las condiciones óptimas de propagación vegetativa; no existe un único método o combinación, se reconocen diversas opciones resultantes de procesos de investigación biotecnológica; los más destacados, se referencian en la siguiente tabla.
 
     .row.justify-content-center.mb-5
-      .col-lg-5
+      .col-lg-8
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Tabla 1
           p <em>Macro y micronutrientes</em>  
@@ -79,104 +79,104 @@
           caption <b>Nota:</b> Tabla adaptada de Mezclas de Suárez (2020), Macro y micronutrientes, p. 51.
           thead.thead_1
             tr
-              td
+              td Componente <br>(mg L <sup>-1</sup>)
               td MS
               td White                      
               td B5
               td WPM
           tbody
             tr.td_1
-              td
+              td <b>NH<sub>4</sub>NO<sub>3</sub></b>
               td 1650.000
               td
               td
               td 400.000
             
             tr.td_2
-              td
+              td <b>Ca(N0<sub>3</sub>)<sub>2</sub>4H<sub>2</sub>O</b>
               td
               td 300.000 
               td
               td 556.000
             
             tr.td_1
-              td
+              td <b>KNO<sub>3</sub></b>
               td 1900.000
               td 80.000 
               td 2500.000
               td
               
             tr.td_2
-              td
+              td <b>KCL</b>
               td
               td 65.000
               td
               td
             
             tr.td_1
-              td
+              td <b>(NH<sub>4</sub>)<sub>2</sub>4SO<sub>4</sub></b>
               td
               td
               td 134.000
               td
             
             tr.td_2
-              td
+              td <b>K<sub>2</sub>SO<sub>4</sub></b>
               td
               td
               td
               td 99.0000
             
             tr.td_1
-              td
+              td <b>KH<sub>2</sub>PO<sub>4</sub></b>
               td
               td
               td
               td 170.000
             
             tr.td_2
-              td
+              td <b>CaCl<sub>2</sub>2H<sub>2</sub>O</b>
               td 333.000
               td
               td 150.000
               td 96.000
             tr.td_1
-              td
+              td <b>MgSO<sub>4</sub>7H<sub>2</sub>O</b>
               td 181.000
               td 720.000
               td 250.000
               td 370.000
             
             tr.td_2
-              td 
+              td <b>KH<sub>2</sub>PO<sub>4</sub></b>
               td 170.000
               td
               td
               td
             
             tr.td_1
-              td 
+              td <b>FeNaEDTA</b>
               td 36.700
               td
               td
               td
             
             tr.td_2
-              td
+              td <b>H<sub>2</sub>BO<sub>3</sub></b>
               td 6.200
               td 1.500
               td 3.000
               td 6.200
             
             tr.td_1
-              td
+              td <b>MnSO<sub>4</sub>H<sub>2</sub>0</b>
               td 16.900
               td 7.000   
               td 10.00
               td 22.300
             
             tr.td_2
-              td
+              td <b>ZnSO<sub>4</sub>H<sub>2</sub>0</b>
               td 8.600
               td 3.000
               td 2.000
@@ -184,13 +184,13 @@
 
             
             tr.td_1
-              td
+              td <b>Kl</b>
               td 0,830
               td 0,750
               td 0,750
               td
             tr.td_2
-              td
+              td <b>Na<sub>2</sub>MoO<sub>4</sub>2H<sub>2</sub>O</b>
               td 0,250	
               td
               td 0,250
@@ -198,40 +198,40 @@
 
             
             tr.td_1
-              td
+              td <b>CuSO<sub>4</sub>5H<sub>2</sub>O</b>
               td 0,025    
               td                              
               td 0,025
               td 0,250			
             tr.td_2
-              td
+              td <b>CoCl<sub>2</sub>6H<sub>2</sub>O</b>
               td 0,025 
               td
               td 0,025									
               td
             
             tr.td_1
-              td
+              td <b>FeSO<sub>4</sub>7H<sub>2</sub>O</b>
               td
               td
               td 27.800
               td 27.800
             tr.td_2
-              td
+              td <b>Na<sub>2</sub>EDTA</b>
               td
               td
               td 27.800
               td 27.800
             
             tr.td_1
-              td
+              td <b>NaH<sub>2</sub>PO<sub>4</sub>H<sub>2</sub>O</b>
               td
               td 200.000
               td 150.000
               td
             
             tr.td_2
-              td
+              td <b>Fe<sub>2</sub>(SO<sub>3</sub>)<sub>3</sub></b>
               td
               td 2.500
               td

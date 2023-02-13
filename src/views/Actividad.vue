@@ -10,7 +10,7 @@
             img(src="@/assets/template/abc.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-secundario
-          h2 Propagación masiva de material vegetal
+          h2 Preparación de materiales y técnicas de propagación
         p.mb-4 Con el fin de retomar los aprendizajes de este componente formativo, debe desarrollar la actividad propuesta, que consiste en completar los espacios en las siguientes frases, relacionadas con el tema.
         
         .tarjeta.actividad.p-3
