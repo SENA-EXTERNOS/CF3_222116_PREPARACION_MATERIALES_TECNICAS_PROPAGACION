@@ -32,7 +32,7 @@
 
         .row.justify-content-center.align-items-center
           .col-md-3.mb-4.mb-md-0.text-small
-            p Además del tejido descrito anteriormente, es importante considerar el siguiente aspecto en el procedimiento de la propagación in vitro: el medio, que es inoculado inicialmente, deberá ser ubicado en un agitador orbital; la velocidad debe mantenerse entre 30 y 150 revoluciones por minuto, garantizando el mantenimiento de los tejidos celulares sin decantarse y posibilitando altas tasas de multiplicación celular. 
+            p Además del tejido descrito anteriormente, es importante considerar el siguiente aspecto en el procedimiento de la propagación <em>in vitro</em>: el medio, que es inoculado inicialmente, deberá ser ubicado en un agitador orbital; la velocidad debe mantenerse entre 30 y 150 revoluciones por minuto, garantizando el mantenimiento de los tejidos celulares sin decantarse y posibilitando altas tasas de multiplicación celular. 
 
           .col-md-7
             figure
@@ -50,9 +50,9 @@
       .row.justify-content-center.mb-5
         .col-lg-10
           .cajon.color-secundario.p-4.mb-4
-            p.mb-0 De acuerdo con lo relacionado sobre la determinación del material para la realización de la propagación in vitro, se procede a reconocer el proceso de consolidación del cultivo.
+            p.mb-0 De acuerdo con lo relacionado sobre la determinación del material para la realización de la propagación <em>in vitro</em>, se procede a reconocer el proceso de consolidación del cultivo.
 
-      p.mb-5 Suárez-Padrón (2020), postula las fases de reposo, exponencial, lineal, desaceleración y estacionaria, como fundamentales en el proceso de consolidación del cultivo in vitro. El significado y las implicaciones de cada una de estas etapas, son:
+      p.mb-5 Suárez-Padrón (2020), postula las fases de reposo, exponencial, lineal, desaceleración y estacionaria, como fundamentales en el proceso de consolidación del cultivo <em>in vitro</em>. El significado y las implicaciones de cada una de estas etapas, son:
 
       .tarjeta.tarjeta--gris.p-4
         PasosB.color-secundario
@@ -188,7 +188,7 @@
             h4 Micropropagación a partir del cultivo de ex plantes con meristemos pre existentes
             p Micropropagar material vegetal, desde explantes con meristemos preexistentes, es una técnica que permite reproducir tallos nuevos, sea desde meristemos terminales o meristemos axilares, continuando con el proceso de enraizamiento respectivo. La ocurrencia de la micropropagación referenciada, sucede por la inducción del crecimiento de las yemas que se encuentran en el explante; este crecimiento resulta de suprimir la dominancia apical, producto del surgimiento, en altas proporciones de proteínas, en el sustrato.
 
-            p Este tipo de técnica, se utiliza más para la producción de cultivos in vitro, puesto que garantiza un alto potencial de estabilidad genética y notables tasas de efectividad en la más amplia gama de materiales vegetales, objeto de la propagación. Los estados que presenta este tipo de micropropagación, son: acondicionamiento de plantas madre, establecimiento del cultivo estéril in vitro, multiplicación del propágulo, 
+            p Este tipo de técnica, se utiliza más para la producción de cultivos <em>in vitro</em>, puesto que garantiza un alto potencial de estabilidad genética y notables tasas de efectividad en la más amplia gama de materiales vegetales, objeto de la propagación. Los estados que presenta este tipo de micropropagación, son: acondicionamiento de plantas madre, establecimiento del cultivo estéril <em>in vitro</em>in vitro, multiplicación del propágulo, 
 
       .py-3.py-md-4(titulo="Organogénesis")
         .row.justify-content-center.align-items-center
@@ -204,7 +204,7 @@
             img.img-a(src='@/assets/curso/temas/tema_1/img_24.png', alt='Texto que describa la imagen')
           .col-md-6
             h4 Embriogénesis somática
-            p Esta técnica o método, se enfoca en la generación de tejido embrionario, desde células distintas al zigoto, y que se conocen como embriones somáticos; este es un proceso que, en plantas angiospermas, sucede al integrarse gameto femenino con gameto masculino, en el saco embrionario para, posteriormente, establecer divisiones celulares incesantes y diferenciación de las mismas, lo que concluye con el establecimiento de un embrión cobijado por el tejido cubierta de la semilla; para la condición in vitro, el inicio del proceso de embriogénesis sucede desde células somáticas, siendo el resultado, un embrión que carece de la protección de tejido cubierta, propio de las semillas.
+            p Esta técnica o método, se enfoca en la generación de tejido embrionario, desde células distintas al zigoto, y que se conocen como embriones somáticos; este es un proceso que, en plantas angiospermas, sucede al integrarse gameto femenino con gameto masculino, en el saco embrionario para, posteriormente, establecer divisiones celulares incesantes y diferenciación de las mismas, lo que concluye con el establecimiento de un embrión cobijado por el tejido cubierta de la semilla; para la condición <em>in vitro</em>, el inicio del proceso de embriogénesis sucede desde células somáticas, siendo el resultado, un embrión que carece de la protección de tejido cubierta, propio de las semillas.
 
     .row.mt-5
       h3 Equipos y herramientas de propagación
@@ -216,7 +216,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema_1/img_25.png')})`}"
           )
           .bloque-texto-g__texto.p-4.text-small
-            p.mb-0 Teniendo en cuenta los requerimientos técnicos para llevar a cabo el proceso de micropropagación del tejido vegetal in vitro, así como las condiciones controladas del entorno inmediato que se han descrito anteriormente, el laboratorio en el cual se han de llevar a cabo las diferentes actividades relacionadas, debe contar con una dotación instrumental acorde con los distintos procedimientos de interés, puesto que su presencia y acción es complementaria.
+            p.mb-0 Teniendo en cuenta los requerimientos técnicos para llevar a cabo el proceso de micropropagación del tejido vegetal <em>in vitro</em>, así como las condiciones controladas del entorno inmediato que se han descrito anteriormente, el laboratorio en el cual se han de llevar a cabo las diferentes actividades relacionadas, debe contar con una dotación instrumental acorde con los distintos procedimientos de interés, puesto que su presencia y acción es complementaria.
             br
             br
             p Este tipo de dotación instrumental puede clasificarse en tres categorías específicas, a saber: equipos, utensilios y reactivos.
@@ -414,7 +414,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema_1/img_51.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Entre todos los elementos referenciados con anterioridad, la asepsia es la piedra angular del proceso de micropropagación de material vegetal in vitro, debido a que las condiciones ambientales artificiales generadas, unidas con la disponibilidad nutricional y ausencia de agentes antagónicos, permite que la presencia de cualquier organismo microbiano encuentre un entorno óptimo para su establecimiento y proliferación; un episodio de contaminación de este tipo, puede causar la pérdida, sea parcial o total, del tejido cultivado. La amenaza por agentes microbianos es permanente, pero el momento más álgido se presenta durante el establecimiento del explante en el medio.
+            p.mb-0 Entre todos los elementos referenciados con anterioridad, la asepsia es la piedra angular del proceso de micropropagación de material vegetal <em>in vitro</em>, debido a que las condiciones ambientales artificiales generadas, unidas con la disponibilidad nutricional y ausencia de agentes antagónicos, permite que la presencia de cualquier organismo microbiano encuentre un entorno óptimo para su establecimiento y proliferación; un episodio de contaminación de este tipo, puede causar la pérdida, sea parcial o total, del tejido cultivado. La amenaza por agentes microbianos es permanente, pero el momento más álgido se presenta durante el establecimiento del explante en el medio.
 
     p.mb-5 Recordando la condición de artificialidad propia del cultivo #[i in vitro], cualquier tipo de organismo microbiano se identifica como potencial agente contaminante del material vegetal y, por lo tanto, una amenaza para la producción proyectada. Se reconocen entre estos, bacterias, hongos y virus. A continuación, algunos elementos asociados a posibles condiciones indicadoras de contaminación por cada uno de este tipo de agentes en un cultivo #[i in vitro].
 
@@ -425,7 +425,7 @@
       .col-lg-7
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           div(titulo="Bacterias")
-            p Son los agentes más comunes en los cultivos in vitro y ocasionan, en los tejidos vegetales, síntomas como: desigualdad en el crecimiento, necrosis localizada, limitada multiplicación de brotes, baja capacidad de enraizamiento e inclusive, la muerte del explante.
+            p Son los agentes más comunes en los cultivos <em>in vitro</em> y ocasionan, en los tejidos vegetales, síntomas como: desigualdad en el crecimiento, necrosis localizada, limitada multiplicación de brotes, baja capacidad de enraizamiento e inclusive, la muerte del explante.
 
           div(titulo="Hongos")
             p Son reconocidos como agentes con actuación externa al explante, con algunos casos excepcionales en los cuales ciertas especies afectan el tejido vascular del material en formación; el crecimiento del micelio puede cubrir con rapidez al explante y ocasionar la muerte de sus tejidos.
@@ -435,7 +435,7 @@
     .fondo-7.p-5.mb-5
       .row.justify-content-center.align-items-center
        .col-lg-6.mb-4.mb-md-0
-        p Además de los organismos microbianos que se presentan como amenazas para el cultivo in vitro, también se manifiestan otros elementos que, igualmente, deben ser considerados, debido a la fragilidad manifiesta del material vegetal; tal es el caso de los ataques por artrópodos, entre los que se destacan algunos arácnidos, ácaros y trips, así como hormigas que, además de generar un impacto mecánico directo, pueden facilitar el ingreso de algunos de los mencionados microorganismos, al espacio controlado.
+        p Además de los organismos microbianos que se presentan como amenazas para el cultivo <em>in vitro</em>, también se manifiestan otros elementos que, igualmente, deben ser considerados, debido a la fragilidad manifiesta del material vegetal; tal es el caso de los ataques por artrópodos, entre los que se destacan algunos arácnidos, ácaros y trips, así como hormigas que, además de generar un impacto mecánico directo, pueden facilitar el ingreso de algunos de los mencionados microorganismos, al espacio controlado.
 
        .col-lg-4
         img.img-a(src='@/assets/curso/temas/tema_1/img_53.png', alt='Texto que describa la imagen')
@@ -467,7 +467,7 @@
               h4.text-center Operario
               p.text-center.mb-0 Finalmente, el papel del operario; al igual que en las superficies vegetales, se cuenta con una flora en interacción con la epidermis y, que en el escenario de un cultivo in vitro, puede contaminar el material vegetal; incluso, con productos del mismo proceso para la renovación de la piel, se puede llegar a contaminar el cultivo, o también con la saliva expulsada al hablar.
 
-    p.mb-5 En el siguiente video, podrá conocer acerca de la técnica estéril para la micropropagación in vitro.
+    p.mb-5 En el siguiente video, podrá conocer acerca de la técnica estéril para la micropropagación <em>in vitro</em>.
 
     figure
       .video

@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema_2/img_1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0.text-small Luego del aprendizaje del proceso de la micropropagación de material vegetal, se continúa con el contenido sobre la temática general de propagación in vitro, mostrando el panorama asociado con las diferentes fases generales de esta técnica de reproducción asexual del material vegetal. 
+        p.mb-0.text-small Luego del aprendizaje del proceso de la micropropagación de material vegetal, se continúa con el contenido sobre la temática general de propagación <em>in vitro</em>, mostrando el panorama asociado con las diferentes fases generales de esta técnica de reproducción asexual del material vegetal. 
         br
         br
         p.mb-0.text-small En este tema, se proporcionan elementos relacionados con las condiciones y procedimientos básicos de introducción de los tejidos a los medios de cultivo, la correspondiente multiplicación de brotes, necesaria para el logro de nuevos individuos y, finalmente, un recorrido por los aspectos requeridos para el sostenimiento de los explantes y su consolidación.
@@ -27,15 +27,15 @@
       .col-lg-8(data-aos="fade-left")
         p Introducción de los tejidos seleccionados al medio de cultivo
 
-        p La propagación in vitro de material vegetal, integra un conjunto de procesos que deben ser meticulosamente desarrollados, para lograr el objetivo de producción; el paso inicial de este procedimiento, es la introducción de los tejidos al medio seleccionado.
+        p La propagación <em>in vitro</em>in vitro de material vegetal, integra un conjunto de procesos que deben ser meticulosamente desarrollados, para lograr el objetivo de producción; el paso inicial de este procedimiento, es la introducción de los tejidos al medio seleccionado.
 
-    p.mb-5 Para establecer un proceso de propagación vegetal in vitro, es necesario comprender la necesidad de contar con un medio de cultivo apropiado para el desarrollo de las fases implicadas. Conozcamos más sobre el tema.
+    p.mb-5 Para establecer un proceso de propagación vegetal <em>in vitro</em>, es necesario comprender la necesidad de contar con un medio de cultivo apropiado para el desarrollo de las fases implicadas. Conozcamos más sobre el tema.
 
     .tarjeta.fondo-3.p-4.mb-5(data-aos="fade-right")
       SlyderA(tipo="b")
         .row.justify-content-center.align-items-center
           .col-md-4.mb-4.mb-md-0.text-small
-            p Para establecer un proceso de propagación vegetal in vitro, es necesario comprender la necesidad de contar con un medio de cultivo apropiado para el desarrollo de las fases implicadas. Conozcamos más sobre el tema.
+            p Para establecer un proceso de propagación vegetal <em>in vitro</em>, es necesario comprender la necesidad de contar con un medio de cultivo apropiado para el desarrollo de las fases implicadas. Conozcamos más sobre el tema.
 
           .col-md-7
             figure
@@ -96,7 +96,7 @@
                 h2 Preparación del medio de cultivo
                 p También se conoce como la elaboración propiamente dicha de la mezcla, conservando pH apropiado, consistencia y asepsia.
 
-    p.mb-5 Continuando con este aprendizaje, se procede a introducir el material vegetal in vitro; para el desarrollo de este proceso, es importante conocer los siguientes pasos:
+    p.mb-5 Continuando con este aprendizaje, se procede a introducir el material vegetal <em>in vitro</em>; para el desarrollo de este proceso, es importante conocer los siguientes pasos:
 
     .tarjeta.bg_4.p-4
       PasosB.color-primario

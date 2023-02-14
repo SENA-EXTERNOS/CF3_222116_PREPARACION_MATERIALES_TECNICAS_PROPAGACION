@@ -60,7 +60,7 @@
           .tarjeta.bg_6
             .p-4
               h4 Carbohidratos
-              p Monosacáridos y disacáridos, se presentan como las principales fuentes de carbono en cultivos in vitro; la formación del nuevo ejemplar debe ser promovida desde el uso de carbohidratos, en un proceso que estimule el desarrollo de la capacidad para realizar la fotosíntesis, sabiendo que, la sacarosa, es el azúcar de mayor uso por parte de las plantas, como fuente de energía.
+              p Monosacáridos y disacáridos, se presentan como las principales fuentes de carbono en cultivos <em>in vitro</em>; la formación del nuevo ejemplar debe ser promovida desde el uso de carbohidratos, en un proceso que estimule el desarrollo de la capacidad para realizar la fotosíntesis, sabiendo que, la sacarosa, es el azúcar de mayor uso por parte de las plantas, como fuente de energía.
 
       .col-lg-10(data-aos="fade-right")
         .tarjeta-avatar-b.mb-5
@@ -98,7 +98,7 @@
               p Con la necesidad de brindar soporte vital al tejido vegetal y cierto proceso de tutorado para el desarrollo óptimo de los ejemplares nuevos; es fundamental asumir el concepto de “reguladores de crecimiento” o, en otras palabras, hormonas vegetales porque este corresponde a las características del tipo de explante implicado y los objetivos de desarrollo relacionados.
 
             div(titulo="Orgánicos y sintéticos")
-              p Los reguladores de crecimiento pueden ser orgánicos o sintéticos y, en el cultivo in vitro, se suman a los medios de cultivo. Entre estos se identifican auxinas, citoquininas, giberelinas, etileno, poliaminas, brasinoesteroides, ácido jasmónico y antioxidantes (Ramos, et al., 2021).
+              p Los reguladores de crecimiento pueden ser orgánicos o sintéticos y, en el cultivo <em>in vitro</em>, se suman a los medios de cultivo. Entre estos se identifican auxinas, citoquininas, giberelinas, etileno, poliaminas, brasinoesteroides, ácido jasmónico y antioxidantes (Ramos, et al., 2021).
 
 
     
