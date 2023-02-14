@@ -26,14 +26,6 @@ export default {
         numero: '1',
         titulo: 'Propagación de material vegetal',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Determinación de material',
-            hash: 't_1_1',
-          },
-        ],
       },
 
       {
