@@ -70,7 +70,7 @@
             .p-4
               h4 Aminoácidos
               p Son conocidos como la fuente de nitrógeno para las células, debido a que tienen integración metabólica más fácil que el nitrógeno inorgánico; la adición de compuestos de aminoácidos, se limita al momento de formación del callo, por ser un estimulante de la proliferación celular con relevante importancia en el desarrollo de tejido vegetal.
-
+              
       .col-lg-10(data-aos="fade-left")
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img

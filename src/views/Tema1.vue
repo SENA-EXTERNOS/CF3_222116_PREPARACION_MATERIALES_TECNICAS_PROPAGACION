@@ -227,85 +227,85 @@
       .tarjeta.bg_1.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
-            img.img-a(src='@/assets/curso/temas/tema_1/img_26.svg' alt='AvatarTop')
+            img.img-a(src='@/assets/curso/temas/tema1/img4.svg' alt='AvatarTop')
         h4.text-center Autoclave
         p.text-center.mb-0 Su función consiste en la esterilización de instrumentos.
       .tarjeta.bg_1.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
-            img.img-a(src='@/assets/curso/temas/tema_1/img_27.svg' alt='AvatarTop')
+            img.img-a(src='@/assets/curso/temas/tema1/img5.svg' alt='AvatarTop')
         h4.text-center Horno microondas
         p.text-center.mb-0 Su función consiste en la esterilización de instrumentos.
       .tarjeta.bg_1.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
-            img.img-a(src='@/assets/curso/temas/tema_1/img_28.svg' alt='AvatarTop')
+            img.img-a(src='@/assets/curso/temas/tema1/img6.svg' alt='AvatarTop')
         h4.text-center Estufa de secado
         p.text-center.mb-0 Su función consiste en el secado de instrumentos.
       .tarjeta.bg_1.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
-            img.img-a(src='@/assets/curso/temas/tema_1/img_29.svg' alt='AvatarTop')
+            img.img-a(src='@/assets/curso/temas/tema1/img7.svg' alt='AvatarTop')
         h4.text-center Medidor de pH
         p.text-center.mb-0 Su función consiste en la medición del pH del sustrato.
       .tarjeta.bg_1.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
-            img.img-a(src='@/assets/curso/temas/tema_1/img_30.svg' alt='AvatarTop')
+            img.img-a(src='@/assets/curso/temas/tema1/img8.svg' alt='AvatarTop')
         h4.text-center Plato giratorio
         p.text-center.mb-0 Su función consiste en la dilución de componentes.
       .tarjeta.bg_1.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
-            img.img-a(src='@/assets/curso/temas/tema_1/img_31.svg' alt='AvatarTop')
+            img.img-a(src='@/assets/curso/temas/tema1/img9.svg' alt='AvatarTop')
         h4.text-center Cámaras de flujo laminar
         p.text-center.mb-0 Su función consiste en la asepsia del aire. 
       .tarjeta.bg_1.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
-            img.img-a(src='@/assets/curso/temas/tema_1/img_32.svg' alt='AvatarTop')
+            img.img-a(src='@/assets/curso/temas/tema1/img10.svg' alt='AvatarTop')
         h4.text-center Micropipetas
         p.text-center.mb-0 Su función consiste en la transferencia de materiales.
       .tarjeta.bg_1.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
-            img.img-a(src='@/assets/curso/temas/tema_1/img_33.svg' alt='AvatarTop')
+            img.img-a(src='@/assets/curso/temas/tema1/img11.svg' alt='AvatarTop')
         h4.text-center Balanzas
         p.text-center.mb-0 Su función consiste en la medición de proporciones.
       .tarjeta.bg_1.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
-            img.img-a(src='@/assets/curso/temas/tema_1/img_34.svg' alt='AvatarTop')
+            img.img-a(src='@/assets/curso/temas/tema1/img12.svg' alt='AvatarTop')
         h4.text-center Termómetro
         p.text-center.mb-0 Su función consiste en la medición de temperatura.
       .tarjeta.bg_1.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
-            img.img-a(src='@/assets/curso/temas/tema_1/img_35.svg' alt='AvatarTop')
+            img.img-a(src='@/assets/curso/temas/tema1/img13.svg' alt='AvatarTop')
         h4.text-center Destilador o filtro del agua
         p.text-center.mb-0 Su función consiste en la purificación de agua.
       .tarjeta.bg_1.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
-            img.img-a(src='@/assets/curso/temas/tema_1/img_35.svg' alt='AvatarTop')
+            img.img-a(src='@/assets/curso/temas/tema1/img14.svg' alt='AvatarTop')
         h4.text-center Microscopio
         p.text-center.mb-0 Su función consiste en el reconocimiento de estructuras celulares.
       .tarjeta.bg_1.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
-            img.img-a(src='@/assets/curso/temas/tema_1/img_36.svg' alt='AvatarTop')
+            img.img-a(src='@/assets/curso/temas/tema1/img15.svg' alt='AvatarTop')
         h4.text-center Agitador orbital
         p.text-center.mb-0 Su función consiste en la preparación de sustancias.
       .tarjeta.bg_1.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
-            img.img-a(src='@/assets/curso/temas/tema_1/img_37.svg' alt='AvatarTop')
+            img.img-a(src='@/assets/curso/temas/tema1/img16.svg' alt='AvatarTop')
         h4.text-center Medidor de humedad relativa
         p.text-center.mb-0 Su función consiste en la medición de condiciones ambientales.
       .tarjeta.bg_1.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
-            img.img-a(src='@/assets/curso/temas/tema_1/img_38.svg' alt='AvatarTop')
+            img.img-a(src='@/assets/curso/temas/tema1/img17.svg' alt='AvatarTop')
         h4.text-center Aire acondicionado
         p.text-center.mb-0 Su función consiste en la regulación de condiciones ambientales.
 
@@ -332,7 +332,7 @@
             .tarjeta.color-acento-botones.p-3(x="67%" y="37%" numero="7")
               h3.text-center.mb-0 Marcadores
             .tarjeta.color-acento-botones.p-3(x="95%" y="37%" numero="8")
-              h3.text-center.mb-0 Bisturís
+              h3.text-center.mb-0 Bisturí
             .tarjeta.color-acento-botones.p-3(x="22%" y="77%" numero="9")
               h3.text-center.mb-0  Cuchillos
             .tarjeta.color-acento-botones.p-3(x="51%" y="77%" numero="10")
@@ -404,7 +404,7 @@
                 img.img-a(src='@/assets/curso/temas/tema_1/img_49.png', alt='Texto que describa la imagen')
 
     .fondo-6.P-5
-      .row.mt-5
+      .row.mt-5.p-4
         h3 Gestión de higiene y residuos en la propagación
 
     .row.justify-content-center.mb-5
@@ -435,7 +435,7 @@
     .fondo-7.p-5.mb-5
       .row.justify-content-center.align-items-center
        .col-lg-6.mb-4.mb-md-0
-        p Además de los organismos microbianos que se presentan como amenazas para el cultivo <em>in vitro</em>, también se manifiestan otros elementos que, igualmente, deben ser considerados, debido a la fragilidad manifiesta del material vegetal; tal es el caso de los ataques por artrópodos, entre los que se destacan algunos arácnidos, ácaros y trips, así como hormigas que, además de generar un impacto mecánico directo, pueden facilitar el ingreso de algunos de los mencionados microorganismos, al espacio controlado.
+        p Además de los organismos microbianos que se presentan como amenazas para el cultivo <em>in vitro</em>, también se manifiestan otros elementos que, igualmente, deben ser considerados, debido a la fragilidad manifiesta del material vegetal; tal es el caso de los ataques por artrópodos, entre los que se destacan algunos arácnidos, ácaros y <em>trips</em>, así como hormigas que, además de generar un impacto mecánico directo, pueden facilitar el ingreso de algunos de los mencionados microorganismos, al espacio controlado.
 
        .col-lg-4
         img.img-a(src='@/assets/curso/temas/tema_1/img_53.png', alt='Texto que describa la imagen')

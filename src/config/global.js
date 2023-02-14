@@ -119,7 +119,7 @@ export default {
       referencia:
         'Ruíz-Benítez, M. (2020). <em>Biotecnología de plantas</em>. Guía. Consultado de',
       tipo: 'Guia',
-      link: '/downloads/Guia_de_Biotecnologia_de_plantas.pdf',
+      link: '../downloads/Guia.pdf',
     },
   ],
   glosario: [
@@ -168,6 +168,11 @@ export default {
       termino: 'Senescencia',
       significado:
         'proceso iniciado como respuesta al estrés y daño ocurrido en una célula, y constituye una ruta alternativa de respuesta a la muerte celular programada',
+    },
+    {
+      termino: 'Tutorado de las plantas',
+      significado:
+        'tutorar se refiere a utilizar un material que permita que la planta se mantenga vertical para que crezca hacia arriba, erguida, y no toque el suelo, para que su desarrollo se dé más sano de mayor calidad.',
     },
   ],
   referencias: [
