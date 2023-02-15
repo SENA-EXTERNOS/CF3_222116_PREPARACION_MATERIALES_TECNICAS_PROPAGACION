@@ -119,7 +119,8 @@ export default {
       referencia:
         'Ruíz-Benítez, M. (2020). <em>Biotecnología de plantas</em>. Guía. Consultado de',
       tipo: 'Guia',
-      link: '../downloads/Guia.pdf',
+      link:
+        'https://bonga.unisimon.edu.co/bitstream/handle/20.500.12442/7983/Gu%C3%ADa%20de%20Biotecnolog%C3%ADa%20de%20plantas.pdf?sequence=1&isAllowed=y',
     },
   ],
   glosario: [
