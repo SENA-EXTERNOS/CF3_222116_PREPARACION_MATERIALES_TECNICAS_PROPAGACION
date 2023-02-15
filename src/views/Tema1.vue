@@ -14,9 +14,8 @@
       .bloque-texto-g__texto.p-4
         p.mb-0.text-small Para comprender el proceso de propagación de material vegetal, se debe partir del análisis de las diferentes condiciones que muestran su funcionalidad, para presentar iniciativas productivas que garanticen la reproducción de material vegetal, comparativamente ventajoso en términos de rendimiento; todo esto proviene de la posibilidad que ofrece la multiplicación vegetativa de clonación de los recursos genéticos seleccionados y, es por este motivo que, se presenta la necesidad de profundizar en los aspectos centrales de esta temática: determinación de material vegetal, establecimiento de sustratos de propagación apropiados, definición de los métodos de propagación relacionados, identificación de equipos y herramientas necesarias, mecanismos de seguimiento del proceso, y gestión apropiada de la higiene y asepsia en el laboratorio. A continuación, se aborda cada uno en detalle.
 
-    separador
-    #t_1_1.titulo-segundo.color-secundario.mt-5
-      h2 1.1 Determinación de material
+    .row.mt-5
+      h3 Determinación de material
 
     p.mb-5 Para dar inicio al tema de la propagación de material vegetal, conoceremos algunos elementos importantes.
 
