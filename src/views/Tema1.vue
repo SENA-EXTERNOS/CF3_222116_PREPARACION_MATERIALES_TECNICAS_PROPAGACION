@@ -464,7 +464,7 @@
           .tarjeta.bg_3
             .p-4
               h4.text-center Operario
-              p.text-center.mb-0 Finalmente, el papel del operario; al igual que en las superficies vegetales, se cuenta con una flora en interacción con la epidermis y, que en el escenario de un cultivo in vitro, puede contaminar el material vegetal; incluso, con productos del mismo proceso para la renovación de la piel, se puede llegar a contaminar el cultivo, o también con la saliva expulsada al hablar.
+              p.text-center.mb-0 Finalmente, el papel del operario; al igual que en las superficies vegetales, se cuenta con una flora en interacción con la epidermis y, que en el escenario de un cultivo <em>in vitro</em>, puede contaminar el material vegetal; incluso, con productos del mismo proceso para la renovación de la piel, se puede llegar a contaminar el cultivo, o también con la saliva expulsada al hablar.
 
     p.mb-5 En el siguiente video, podrá conocer acerca de la técnica estéril para la micropropagación <em>in vitro</em>.
 
