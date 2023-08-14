@@ -179,12 +179,12 @@
         p En la micropropagación del material vegetal, se reconocen tres métodos aplicables que dependen de la especie, la variedad y los objetivos de operación; estos métodos son: la micropropagación a partir del cultivo de explantes con meristemos preexistentes, la organogénesis y la embriogénesis somática. A continuación, expondremos cada técnica, de forma específica.
 
     TabsC.color-primario.mb-5
-      .py-3.py-md-4.bgr1-tema1(titulo="Micropropagación a partir del cultivo de ex plantes con meristemos pre existentes")
+      .py-3.py-md-4.bgr1-tema1(titulo="Micropropagación a partir del cultivo de explantes con meristemos preexistentes")
         .row.justify-content-center.align-items-center
           .col-md-5.mb-4.mb-md-0
             img.img-a(src='@/assets/curso/temas/tema_1/img_22.png', alt='Texto que describa la imagen')
           .col-md-6
-            h4 Micropropagación a partir del cultivo de ex plantes con meristemos pre existentes
+            h4 Micropropagación a partir del cultivo de explantes con meristemos preexistentes
             p Micropropagar material vegetal, desde explantes con meristemos preexistentes, es una técnica que permite reproducir tallos nuevos, sea desde meristemos terminales o meristemos axilares, continuando con el proceso de enraizamiento respectivo. La ocurrencia de la micropropagación referenciada, sucede por la inducción del crecimiento de las yemas que se encuentran en el explante; este crecimiento resulta de suprimir la dominancia apical, producto del surgimiento, en altas proporciones de proteínas, en el sustrato.
 
             p Este tipo de técnica, se utiliza más para la producción de cultivos <em>in vitro</em>, puesto que garantiza un alto potencial de estabilidad genética y notables tasas de efectividad en la más amplia gama de materiales vegetales, objeto de la propagación. Los estados que presenta este tipo de micropropagación, son: acondicionamiento de plantas madre, establecimiento del cultivo estéril <em>in vitro</em><em>in vitro</em>, multiplicación del propágulo, 

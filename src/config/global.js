@@ -112,7 +112,7 @@ export default {
         'Perea, M (2009). <em>Cultivo de tejidos vegetales in vitro</em>. Consultado de',
       tipo: 'Libro',
       link:
-        'http://ciencias.bogota.unal.edu.co/fileadmin/Facultad_de_Ciencias/Publicaciones/Imagenes/Portadas_Libros/Biologia/Cultivo_de_Tejidos_Vegetales_In_Vitro/Cultivo_de_Tejidos_Vegetales_In_Vitro.pdf?fbclid=IwAR2xLhdtU-7yKztpAvuWQjdZYh-ltzpcYT6PnzpAErkw__ZozfqclxwYy-Y',
+        'https://repositorio.unal.edu.co/bitstream/handle/unal/79882/Tejidos%20Vegetales%20In%20Vitro%209789587194975.pdf',
     },
     {
       tema: 'Unidades de expresión de las sustancias en preparación de cultivo',
