@@ -250,21 +250,18 @@
             .col-md-4.mb-4.mb-md-0
               img.img-a(src='@/assets/curso/temas/tema_4/img_8.png', alt='Texto que describa la imagen')
             .col-md-6
-              h4 Pesaje de cada componente al momento de preparación de la fórmula
               p Es un método complejo, debido a las dificultades de pesaje de algunos componentes, como es el caso de los micronutrientes.
         .py-3.py-md-4(titulo="Preparación de soluciones madre <em>(stock)</em>").fondo-9
           .row.justify-content-center.align-items-center
             .col-md-4.mb-4.mb-md-0
               img.img-a(src='@/assets/curso/temas/tema_4/img_9.png', alt='Texto que describa la imagen')
             .col-md-6
-              h4 Preparación de soluciones madre <em>(stock)</em>
               p Este método consiste en realizar una preparación en altas concentraciones, para luego tomar muestras proporcionales a las necesidades y diluirlas en agua.
         .py-3.py-md-4(titulo="Formulaciones premezcladas obtenidas en el mercado").fondo-9
           .row.justify-content-center.align-items-center
             .col-md-4.mb-4.mb-md-0
               img.img-a(src='@/assets/curso/temas/tema_4/img_10.png', alt='Texto que describa la imagen')
             .col-md-6
-              h4 Formulaciones premezcladas obtenidas en el mercado
               p Este último método proporciona especificidad en las medidas, pero su uso es limitado por concepto del costo económico asociado.
 
     .row.justify-content-center
