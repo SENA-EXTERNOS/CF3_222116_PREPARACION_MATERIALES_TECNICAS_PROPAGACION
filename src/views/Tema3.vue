@@ -27,7 +27,7 @@
               img.img-a(src='@/assets/curso/temas/tema3/img1.svg', alt='Texto que describa la imagen')
           
         h2.text-center Micronutrientes
-        p.text-center Grupo constituido por los conocidos elementos mayores los cuales son: Nitrógeno (N), Fósforo (P), Potasio (K), Calcio (Ca), Magnesio (Mg) y Azufre (S); todos son protagonistas en el proceso de consolidación y crecimiento de las estructuras celulares, y es necesario utilizar de manera apropiada, el balance de los mismos en la solución, debido a que, por excesos o por defectos, se pueden ocasionar daños irreversibles a los ejemplares vegetales en formación como, por ejemplo, la vitrificación por nitrógeno.
+        p.text-center El concepto hace referencia al nivel de concentración de ciertos elementos requeridos por parte del material vegetal para la formación de las plantas; entre estos se encuentran hierro (Fe), manganeso (Mn), Zinc (Zn), Cobre (Cu), Boro (B) y Molibdeno (Mo), siendo el primero el mayormente requerido y, en su conjunto, son relevantes para el desarrollo de procesos asociados a la fotosíntesis, regulación hormonal y crecimiento celular.
 
       .col-md.tarjeta.color-secundario.p-5
         .row.justify-content-center.mb-4
