@@ -187,7 +187,7 @@
             h4 Micropropagación a partir del cultivo de explantes con meristemos preexistentes
             p Micropropagar material vegetal, desde explantes con meristemos preexistentes, es una técnica que permite reproducir tallos nuevos, sea desde meristemos terminales o meristemos axilares, continuando con el proceso de enraizamiento respectivo. La ocurrencia de la micropropagación referenciada, sucede por la inducción del crecimiento de las yemas que se encuentran en el explante; este crecimiento resulta de suprimir la dominancia apical, producto del surgimiento, en altas proporciones de proteínas, en el sustrato.
 
-            p Este tipo de técnica, se utiliza más para la producción de cultivos <em>in vitro</em>, puesto que garantiza un alto potencial de estabilidad genética y notables tasas de efectividad en la más amplia gama de materiales vegetales, objeto de la propagación. Los estados que presenta este tipo de micropropagación, son: acondicionamiento de plantas madre, establecimiento del cultivo estéril <em>in vitro</em><em>in vitro</em>, multiplicación del propágulo, 
+            p Este tipo de técnica, se utiliza más para la producción de cultivos <em>in vitro</em>, puesto que garantiza un alto potencial de estabilidad genética y notables tasas de efectividad en la más amplia gama de materiales vegetales, objeto de la propagación. Los estados que presenta este tipo de micropropagación, son: acondicionamiento de plantas madre, establecimiento del cultivo estéril <em>in vitro</em>, multiplicación del propágulo, 
 
       .py-3.py-md-4(titulo="Organogénesis")
         .row.justify-content-center.align-items-center
@@ -364,7 +364,7 @@
         SlyderA(tipo="b")
           .row.justify-content-center.align-items-center
             .col-md-3.mb-4.mb-md-0.text-small
-              p El monitoreo debe ser capaz de proporcionar respuestas a las situaciones emergentes de cada fase o subproceso, en aras del mantenimiento de las condiciones garantes del crecimiento y desarrollo del material vegetal; por este motivo, el tipo de seguimiento que se debe realizar sobre el cultivo engendrado, debe tener la capacidad de interpretar, de manera acertada, todo lo que ocurre en el asentamiento productivo, para lo que se hace indispensable la construcción y uso de indicadores, desde el comportamiento de las variables, determinantes para el proceso.
+              p El monitoreo debe ser capaz de proporcionar respuestas a las situaciones emergentes de cada fase o subproceso, en aras del mantenimiento de las condiciones garantes del crecimiento y desarrollo del material vegetal; por este motivo, el tipo de seguimiento que se debe realizar sobre el cultivo engendrado, debe tener la capacidad de interpretar, de manera acertada, todo lo que ocurre en el asentamiento productivo, para lo cual se hace indispensable la construcción y uso de indicadores, desde el comportamiento de las variables, determinantes para el proceso.
 
             .col-md-7
               figure

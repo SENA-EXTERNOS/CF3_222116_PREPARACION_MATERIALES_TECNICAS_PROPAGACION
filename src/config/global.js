@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Preparación de materiales y técnicas de propagación',
     descripcionCurso:
-      'Este componente formativo aborda el proceso de propagación de material vegetal, estableciendo condiciones precisas de asepsia, en la implementación. Entre los aspectos determinantes, resaltan la clasificación específica del material vegetal, definir métodos de propagación, uso de equipos y herramientas, interpretación de condiciones de nutrición vegetal, preparación de medios de cultivo y definición de protocolos de seguimiento al cultivo.',
+      'Este componente formativo aborda el proceso de propagación de material vegetal, estableciendo condiciones precisas de asepsia en la implementación. Entre los aspectos determinantes, resaltan la clasificación específica del material vegetal, define métodos de propagación, uso de equipos y herramientas, interpretación de condiciones de nutrición vegetal, preparación de medios de cultivo y definición de protocolos de seguimiento al cultivo.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [{}],
@@ -95,21 +95,21 @@ export default {
     {
       tema: 'Propagación de material vegetal',
       referencia:
-        'Hernández-Morales, R (27 de octubre de 2021). <em>Medios de cultivo en propagación vegetal.</em> [Archivo de video]. You Tube. ',
+        'Hernández-Morales, R (27 de octubre de 2021). <em>Medios de cultivo en propagación vegetal.</em> [Archivo de video]. youtube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=Kn5rvSDRCXA',
     },
     {
       tema: 'Inicio del ciclo de cultivo <em>in vitro</em>',
       referencia:
-        'Suárez-Padrón, I (2020). <em>Cultivo de tejidos vegetales</em>. Fondo editorial Universidad de Córdoba. Consultado en',
+        'Suárez-Padrón, I (2020). <em>Cultivo de tejidos vegetales</em>. Fondo editorial Universidad de Córdoba.',
       tipo: 'Libro',
       link: 'https://core.ac.uk/download/pdf/288339333.pdf',
     },
     {
       tema: 'Propagación de material vegetal',
       referencia:
-        'Perea, M (2009). <em>Cultivo de tejidos vegetales in vitro</em>. Consultado de',
+        'Perea, M (2009). <em>Cultivo de tejidos vegetales in vitro</em>.',
       tipo: 'Libro',
       link:
         'https://repositorio.unal.edu.co/bitstream/handle/unal/79882/Tejidos%20Vegetales%20In%20Vitro%209789587194975.pdf',
@@ -117,7 +117,7 @@ export default {
     {
       tema: 'Unidades de expresión de las sustancias en preparación de cultivo',
       referencia:
-        'Ruíz-Benítez, M. (2020). <em>Biotecnología de plantas</em>. Guía. Consultado de',
+        'Ruíz-Benítez, M. (2020). <em>Biotecnología de plantas</em>. Guía.',
       tipo: 'Guia',
       link:
         'https://bonga.unisimon.edu.co/bitstream/handle/20.500.12442/7983/Gu%C3%ADa%20de%20Biotecnolog%C3%ADa%20de%20plantas.pdf?sequence=1&isAllowed=y',
