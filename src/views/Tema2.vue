@@ -25,7 +25,7 @@
       .col-lg-2.mb-4.mb-md-0(data-aos="fade-right")
         img.img-a(src='@/assets/curso/temas/tema2/img1.svg', alt='Texto que describa la imagen')
       .col-lg-8(data-aos="fade-left")
-        p La propagación <em>in vitro</em>in vitro de material vegetal, integra un conjunto de procesos que deben ser meticulosamente desarrollados, para lograr el objetivo de producción; el paso inicial de este procedimiento, es la introducción de los tejidos al medio seleccionado.
+        p La propagación <em>in vitro</em> de material vegetal, integra un conjunto de procesos que deben ser meticulosamente desarrollados, para lograr el objetivo de producción; el paso inicial de este procedimiento, es la introducción de los tejidos al medio seleccionado.
 
     p.mb-5 Para establecer un proceso de propagación vegetal <em>in vitro</em>, es necesario comprender la necesidad de contar con un medio de cultivo apropiado para el desarrollo de las fases implicadas. Conozcamos más sobre el tema.
 
